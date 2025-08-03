@@ -1,3 +1,17 @@
+@font-face {
+    font-family: "Minecraft";
+    font-style: normal;
+    font-weight: normal;
+    src: url("./assets/Minecraftia-Regular.ttf");
+}
+
+html, body {
+    font-family: Minecraft, sans-serif;
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
 .preview-add img, .preview-remove img {
     opacity: 1.0 !important;
 }
