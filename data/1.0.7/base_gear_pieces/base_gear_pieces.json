@@ -1,0 +1,4941 @@
+{
+    "helmet": 
+    {
+        "Leather Cap": 
+        {
+            "name": "Leather Cap",
+            "id":"minecraft:leather_helmet",
+            "durability": 55,
+            "special_effect": "undefined"
+        },
+        "Chainmail Helmet": 
+        {
+            "name": "Chainmail Helmet",
+            "id":"minecraft:chainmail_helmet",
+            "durability": 165,
+            "special_effect": "undefined"
+        },
+        "Iron Helmet": 
+        {
+            "name": "Iron Helmet",
+            "id":"minecraft:iron_helmet",
+            "durability": 165,
+            "special_effect": "undefined"
+        },
+        "Gold Helmet":
+        {
+            "name": "Gold Helmet",
+            "id":"minecraft:golden_helmet",
+            "durability": 77,
+            "special_effect": "undefined"
+        },
+        "Diamond Helmet":
+        {
+            "name": "Diamond Helmet",
+            "id":"minecraft:diamond helmet",
+            "durability": 363,
+            "special_effect": "undefined"
+        },
+        "Netherite Helmet":
+        {
+            "name": "Netherite Helmet",
+            "id":"minecraft:netherite_helmet",
+            "durability": 407,
+            "special_effect": "undefined"
+        },
+        "Turtle Shell":
+        {
+            "name": "Turtle Shell",
+            "id":"minecraft:turtle_helmet",
+            "durability": 275,
+            "special_effect": "undefined"
+        },
+        "Cloth Helmet 1":
+        {
+            "name": "Cloth Helmet 1",
+            "id":"cte_essentials:cloth_0_helmet",
+            "durability": 55,
+            "special_effect": "undefined"
+        },
+        "Cloth Helmet 2":
+        {
+            "name": "Cloth Helmet 2",
+            "id":"cte_essentials:cloth_1_helmet",
+            "durability": 110,
+            "special_effect": "undefined"
+        },
+        "Cloth Helmet 3":
+        {
+            "name": "Cloth Helmet 3",
+            "id":"cte_essentials:cloth_2_helmet",
+            "durability": 165,
+            "special_effect": "undefined"
+        },
+        "Cloth Helmet 4":
+        {
+            "name": "Cloth Helmet 4",
+            "id":"cte_essentials:cloth_3_helmet",
+            "durability": 220,
+            "special_effect": "undefined"
+        },
+        "Cloth Helmet 5":
+        {
+            "name": "Cloth Helmet 5",
+            "id":"cte_essentials:cloth_4_helmet",
+            "durability": 275,
+            "special_effect": "undefined"
+        },
+        "Cloth Helmet 6":
+        {
+            "name": "Cloth Helmet 6",
+            "id":"cte_essentials:cloth_5_helmet",
+            "durability": 330,
+            "special_effect": "undefined"
+        },
+        "Leather Helmet 1":
+        {
+            "name": "Leather Helmet 1",
+            "id":"cte_essentials:leather_0_helmet",
+            "durability": 55,
+            "special_effect": "undefined"
+        },
+        "Leather Helmet 2":
+        {
+            "name": "Leather Helmet 2",
+            "id":"cte_essentials:leather_1_helmet",
+            "durability": 110,
+            "special_effect": "undefined"
+        },
+        "Leather Helmet 3":
+        {
+            "name": "Leather Helmet 3",
+            "id":"cte_essentials:leather_2_helmet",
+            "durability": 165,
+            "special_effect": "undefined"
+        },
+        "Leather Helmet 4":
+        {
+            "name": "Leather Helmet 4",
+            "id":"cte_essentials:leather_3_helmet",
+            "durability": 220,
+            "special_effect": "undefined"
+        },
+        "Leather Helmet 5":
+        {
+            "name": "Leather Helmet 5",
+            "id":"cte_essentials:leather_4_helmet",
+            "durability": 275,
+            "special_effect": "undefined"
+        },
+        "Leather Helmet 6":
+        {
+            "name": "Leather Helmet 6",
+            "id":"cte_essentials:leather_5_helmet",
+            "durability": 330,
+            "special_effect": "undefined"
+        },
+        "Plate Helmet 1":
+        {
+            "name": "Plate Helmet 1",
+            "id":"cte_essentials:plate_0_helmet",
+            "durability": 55,
+            "special_effect": "undefined"
+        },
+        "Plate Helmet 2":
+        {
+            "name": "Plate Helmet 2",
+            "id":"cte_essentials:plate_1_helmet",
+            "durability": 110,
+            "special_effect": "undefined"
+        },
+        "Plate Helmet 3":
+        {
+            "name": "Plate Helmet 3",
+            "id":"cte_essentials:plate_2_helmet",
+            "durability": 165,
+            "special_effect": "undefined"
+        },
+        "Plate Helmet 4":
+        {
+            "name": "Plate Helmet 4",
+            "id":"cte_essentials:plate_3_helmet",
+            "durability": 220,
+            "special_effect": "undefined"
+        },
+        "Plate Helmet 5":
+        {
+            "name": "Plate Helmet 5",
+            "id":"cte_essentials:plate_4_helmet",
+            "durability": 275,
+            "special_effect": "undefined"
+        },
+        "Plate Helmet 6":
+        {
+            "name": "Plate Helmet 6",
+            "id":"cte_essentials:plate_5_helmet",
+            "durability": 330,
+            "special_effect": "undefined"
+        },
+        "Wildfire Crown":
+        {
+            "name": "Wildfire Crown",
+            "id":"friendsandfoes:wildfire_crown",
+            "durability": 385,
+            "special_effect": "undefined"
+        },
+        "Shulker Shell":
+        {
+            "name": "Shulker Shell",
+            "id":"minecraft:shulker_shell",
+            "durability": 130,
+            "special_effect": "undefined"
+        },
+        "Manasteel Helmet":
+        {
+            "name": "Manasteel Helmet",
+            "id":"botania:manasteel_helmet",
+            "durability": 176,
+            "special_effect": "undefined"
+        },
+        "Terrasteel Helmet":
+        {
+            "name": "Terrasteel Helmet",
+            "id":"botania:terrasteel_helmet",
+            "durability": 374,
+            "special_effect": "undefined"
+        },
+        "Manaweave Cowl":
+        {
+            "name": "Manaweave Cowl",
+            "id":"botania:manaweave_helmet",
+            "durability": 55,
+            "special_effect": "undefined"
+        },
+        "Mutant Skeleton Skull":
+        {
+            "name": "Mutant Skeleton Skull",
+            "id":"mutantmonsters:mutant_skeleton_skull",
+            "durability": 165,
+            "special_effect": "undefined"
+        },
+        "Red Crown":
+        {
+            "name": "Red Crown",
+            "id":"floralench:red_crown",
+            "durability": 135,
+            "special_effect": "undefined"
+        },
+        "Yellow Crown":
+        {
+            "name": "Yellow Crown",
+            "id":"floralench:yellow_crown",
+            "durability": 135,
+            "special_effect": "undefined"
+        },
+        "Blue Crown":
+        {
+            "name": "Blue Crown",
+            "id":"floralench:blue_crown",
+            "durability": 135,
+            "special_effect": "undefined"
+        },
+        "White Crown":
+        {
+            "name": "White Crown",
+            "id":"floralench:white_crown",
+            "durability": 135,
+            "special_effect": "undefined"
+        },
+        "Pink Crown":
+        {
+            "name": "Pink Crown",
+            "id":"floralench:pink_crown",
+            "durability": 135,
+            "special_effect": "undefined"
+        },
+        "Black Crown":
+        {
+            "name": "Black Crown",
+            "id":"floralench:black_crown",
+            "durability": 135,
+            "special_effect": "undefined"
+        },
+        "Tulips Crown":
+        {
+            "name": "Tulips Crown",
+            "id":"floralench:tulips_crown",
+            "durability": 135,
+            "special_effect": "undefined"
+        },
+        "Depth Helmet":
+        {
+            "name": "Depth Helmet",
+            "id":"seadwellers:depth_helmet",
+            "durability": 363,
+            "special_effect": "undefined"
+        },
+        "Cloggrum Helmet":
+        {
+            "name": "Cloggrum Helmet",
+            "id":"undergarden:cloggrum_helmet",
+            "durability": 220,
+            "special_effect": "undefined"
+        },
+        "Froststeel Helmet":
+        {
+            "name": "Froststeel Helmet",
+            "id":"undergarden:froststeel_helmet",
+            "durability": 275,
+            "special_effect": "undefined"
+        },
+        "Utherium Helmet":
+        {
+            "name": "Utherium Helmet",
+            "id":"undergarden:utherium_helmet",
+            "durability": 330,
+            "special_effect": "undefined"
+        },
+        "Ancient Helmet":
+        {
+            "name": "Ancient Helmet",
+            "id":"undergarden:ancient_helmet",
+            "durability": 407,
+            "special_effect": "undefined"
+        },
+        "Rose Crystal Helmet":
+        {
+            "name": "Rose Crystal Helmet",
+            "id":"outer_end:rose_crystal_helmet",
+            "durability": 407,
+            "special_effect": "undefined"
+        },
+        "Mint Crystal Helmet":
+        {
+            "name": "Mint Crystal Helmet",
+            "id":"outer_end:mint_crystal_helmet",
+            "durability": 407,
+            "special_effect": "undefined"
+        },
+        "Cobalt Crystal Helmet":
+        {
+            "name": "Cobalt Crystal Helmet",
+            "id":"outer_end:cobalt_crystal_helmet",
+            "durability": 407,
+            "special_effect": "undefined"
+        },
+        "Tungsten Helmet":
+        {
+            "name": "Tungsten Helmet",
+            "id":"stalwart_dungeons:tungsten_helmet",
+            "durability": 275,
+            "special_effect": "undefined"
+        },
+        "Warted Helmet":
+        {
+            "name": "Warted Helmet",
+            "id":"stalwart_dungeons:warted_tungsten_helmet",
+            "durability": 275,
+            "special_effect": "undefined"
+        },
+        "Chorundum Helmet":
+        {
+            "name": "Chorundum Helmet",
+            "id":"stalwart_dungeons:chorundum_armor_helmet",
+            "durability": 385,
+            "special_effect": "undefined"
+        },
+        "Wrought Helm":
+        {
+            "name": "Wrought Helm",
+            "id":"mowziesmobs:wrought_helmet",
+            "durability": 165,
+            "special_effect": "undefined"
+        },
+        "Mask of Fury":
+        {
+            "name": "Mask of Fury",
+            "id":"mowziesmobs:umvuthana_mask_fury",
+            "durability": 55,
+            "special_effect": "undefined"
+        },
+        "Mask of Fear":
+        {
+            "name": "Mask of Fear",
+            "id":"mowziesmobs:umvuthana_mask_fear",
+            "durability": 55,
+            "special_effect": "undefined"
+        },
+        "Mask of Rage":
+        {
+            "name": "Mask of Rage",
+            "id":"mowziesmobs:umvuthana_mask_rage",
+            "durability": 55,
+            "special_effect": "undefined"
+        },
+        "Mask of Bliss":
+        {
+            "name": "Mask of Bliss",
+            "id":"mowziesmobs:umvuthana_mask_bliss",
+            "durability": 55,
+            "special_effect": "undefined"
+        },
+        "Mask of Misery":
+        {
+            "name": "Mask of Misery",
+            "id":"mowziesmobs:umvuthana_mask_misery",
+            "durability": 55,
+            "special_effect": "undefined"
+        },
+        "Mask of Faith":
+        {
+            "name": "Mask of Faith",
+            "id":"mowziesmobs:umvuthana_mask_faith",
+            "durability": 55,
+            "special_effect": "undefined"
+        },
+        "Sol Visage":
+        {
+            "name": "Sol Visage",
+            "id":"mowziesmobs:sol_visage",
+            "durability": 77,
+            "special_effect": "undefined"
+        },
+        "Geomancer Beads":
+        {
+            "name": "Geomancer Beads",
+            "id":"mowziesmobs:geomancer_beads",
+            "durability": 363,
+            "special_effect": "undefined"
+        },
+        "Neptunium Helmet":
+        {
+            "name": "Neptunium Helmet",
+            "id":"aquaculture:neptunium_helmet",
+            "durability": 385,
+            "special_effect": "undefined"
+        },
+        "Terrible Helmet":
+        {
+            "name": "Terrible Helmet",
+            "id":"aquamirae:terrible_helmet",
+            "durability": 275,
+            "special_effect": "undefined"
+        },
+        "Heaume of the Blinding Abyss":
+        {
+            "name": "Heaume of the Blinding Abyss",
+            "id":"aquamirae:abyssal_heaume",
+            "durability": 440,
+            "special_effect": "undefined"
+        },
+        "Tiara of the Blinding Abyss":
+        {
+            "name": "Tiara of the Blinding Abyss",
+            "id":"aquamirae:abyssal_tiara",
+            "durability": 440,
+            "special_effect": "undefined"
+        },
+        "Three-Bolt Helmet":
+        {
+            "name": "Three-Bolt Helmet",
+            "id":"aquamirae:three_bolt_helmet",
+            "durability": 825,
+            "special_effect": "undefined"
+        },
+        "Pyrope Helmet":
+        {
+            "name": "Pyrope Helmet",
+            "id":"blue_skies:pyrope_helmet",
+            "durability": 165,
+            "special_effect": "undefined"
+        },
+        "Aquite Helmet":
+        {
+            "name": "Aquite Helmet",
+            "id":"blue_skies:aquite_helmet",
+            "durability": 165,
+            "special_effect": "undefined"
+        },
+        "Diopside Helmet":
+        {
+            "name": "Diopside Helmet",
+            "id":"blue_skies:diopside_helmet",
+            "durability": 396,
+            "special_effect": "undefined"
+        },
+        "Charoite Helmet":
+        {
+            "name": "Charoite Helmet",
+            "id":"blue_skies:charoite_helmet",
+            "durability": 363,
+            "special_effect": "undefined"
+        },
+        "Horizonite Helmet":
+        {
+            "name": "Horizonite Helmet",
+            "id":"blue_skies:horizonite_helmet",
+            "durability": 165,
+            "special_effect": "undefined"
+        },
+        "Antler Headdress":
+        {
+            "name": "Antler Headdress",
+            "id":"alexsmobs:moose_headgear",
+            "durability": 247,
+            "special_effect": "undefined"
+        },
+        "Frontiersman's Cap":
+        {
+            "name": "Frontiersman's Cap",
+            "id":"alexsmobs:frontier_cap",
+            "durability": 221,
+            "special_effect": "undefined"
+        },
+        "Sombrero":
+        {
+            "name": "Sombrero",
+            "id":"alexsmobs:sombrero",
+            "durability": 182,
+            "special_effect": "undefined"
+        },
+        "Spiked Turtle Shell":
+        {
+            "name": "Spiked Turtle Shell",
+            "id":"alexsmobs:spiked_turtle_shell",
+            "durability": 455,
+            "special_effect": "undefined"
+        },
+        "Fedora":
+        {
+            "name": "Fedora",
+            "id":"alexsmobs:fedora",
+            "durability": 130,
+            "special_effect": "undefined"
+        },
+        "Froststalker Helmet":
+        {
+            "name": "Froststalker Helmet",
+            "id":"alexsmobs:froststalker_helmet",
+            "durability": 117,
+            "special_effect": "undefined"
+        },
+        "Novelty Hat":
+        {
+            "name": "Novelty Hat",
+            "id":"alexsmobs:novelty_hat",
+            "durability": 130,
+            "special_effect": "undefined"
+        },
+        "Ironwood Helmet":
+        {
+            "name": "Ironwood Helmet",
+            "id":"twilightforest:ironwood_helmet",
+            "durability": 220,
+            "special_effect": "undefined"
+        },
+        "Steeleaf Helmet":
+        {
+            "name": "Steeleaf Helmet",
+            "id":"twilightforest:steeleaf_helmet",
+            "durability": 110,
+            "special_effect": "undefined"
+        },
+        "Knightmetal Helmet":
+        {
+            "name": "Knightmetal Helmet",
+            "id":"twilightforest:knightmetal_helmet",
+            "durability": 220,
+            "special_effect": "undefined"
+        },
+        "Fiery Helmet":
+        {
+            "name": "Fiery Helmet",
+            "id":"twilightforest:fiery_helmet",
+            "durability": 275,
+            "special_effect": "undefined"
+        },
+        "Arctic Hood":
+        {
+            "name": "Arctic Hood",
+            "id":"twilightforest:arctic_helmet",
+            "durability": 110,
+            "special_effect": "undefined"
+        },
+        "Yeti Horned Helm":
+        {
+            "name": "Yeti Horned Helm",
+            "id":"twilightforest:yeti_helmet",
+            "durability": 220,
+            "special_effect": "undefined"
+        },
+        "Plantom Helmet":
+        {
+            "name": "Plantom Helmet",
+            "id":"twilightforest:plantom_helmet",
+            "durability": 330,
+            "special_effect": "undefined"
+        },
+        "Genji Kabuto":
+        {
+            "name": "Genji Kabuto",
+            "id":"cte2modpackarmors:tempered_samurai_armor_helmet",
+            "durability": 363,
+            "special_effect": "undefined"
+        },
+        "Nebula's Hood":
+        {
+            "name": "Nebula's Hood",
+            "id":"cte2modpackarmors:mage_hunter_armor_helmet",
+            "durability": 363,
+            "special_effect": "undefined"
+        },
+        "Last Tracker Helmet":
+        {
+            "name": "Last Tracker Helmet",
+            "id":"cte2modpackarmors:last_tracker_armor_helmet",
+            "durability": 363,
+            "special_effect": "undefined"
+        },
+        "Mahj's Vigilance":
+        {
+            "name": "Mahj's Vigilance",
+            "id":"cte2modpackarmors:oath_of_mahj_armor_helmet",
+            "durability": 363,
+            "special_effect": "undefined"
+        },
+        "Granat's Desire":
+        {
+            "name": "Granat's Desire",
+            "id":"cte2modpackarmors:endless_blood_armor_helmet",
+            "durability": 363,
+            "special_effect": "undefined"
+        },
+        "Jubban's Dream":
+        {
+            "name": "Jubban's Dream",
+            "id":"cte2modpackarmors:divine_plate_armor_helmet",
+            "durability": 363,
+            "special_effect": "undefined"
+        },
+        "Resonarium Helmet":
+        {
+            "name": "Resonarium Helmet",
+            "id":"deeperdarker:resonarium_helmet",
+            "durability": 330,
+            "special_effect": "undefined"
+        },
+        "Warden Helmet":
+        {
+            "name": "Warden Helmet",
+            "id":"deeperdarker:warden_helmet",
+            "durability": 440,
+            "special_effect": "undefined"
+        },
+        "Chocodisguise Helmet":
+        {
+            "name": "Chocodisguise Helmet",
+            "id":"chococraft:choco_disguise_helmet",
+            "durability": 2200,
+            "special_effect": "undefined"
+        },
+        "Killer Rabbit Ears":
+        {
+            "name": "Killer Rabbit Ears",
+            "id":"born_in_chaos_v1:killer_rabbit_ears_helmet",
+            "durability": 132,
+            "special_effect": "undefined"
+        },
+        "Dark Metal Helmet":
+        {
+            "name": "Dark Metal Helmet",
+            "id":"born_in_chaos_v1:dark_metal_armor_helmet",
+            "durability": 550,
+            "special_effect": "undefined"
+        },
+        "Nightmare Mask":
+        {
+            "name": "Nightmare Mask",
+            "id":"born_in_chaos_v1:nightmare_mantleofthe_night_helmet",
+            "durability": 330,
+            "special_effect": "undefined"
+        },
+        "Spiny Shell Helmet":
+        {
+            "name": "Spiny Shell Helmet",
+            "id":"born_in_chaos_v1:spiny_shell_armor_helmet",
+            "durability": 220,
+            "special_effect": "undefined"
+
+        }
+    },
+    "head":
+    {
+        "Flugel Tiara":
+        {
+            "name": "Flugel Tiara",
+            "id": "botania:flight_tiara",
+            "durability": "infinite",
+            "special_effect": "undefined"
+        }
+    },
+    "chest":
+    {
+        "Leather Tunic":
+        {
+            "name": "Leather Tunic",
+            "id": "minecraft:leather_chestplate",
+            "durability": 80,
+            "special_effect": "undefined"
+        },
+        "Chainmail Chestplate":
+        {
+            "name": "Chainmail Chestplate",
+            "id": "minecraft:chainmail_chestplate",
+            "durability": 240,
+            "special_effect": "undefined"
+        },
+        "Iron Chestplate":
+        {
+            "name": "Iron Chestplate",
+            "id": "minecraft:iron_chestplate",
+            "durability": 240,
+            "special_effect": "undefined"
+        },
+        "Golden Chestplate":
+        {
+            "name": "Golden Chestplate",
+            "id": "minecraft:golden_chestplate",
+            "durability": 112,
+            "special_effect": "undefined"
+        },
+        "Diamond Chestplate":
+        {
+            "name": "Diamond Chestplate",
+            "id": "minecraft:diamond_chestplate",
+            "durability": 528,
+            "special_effect": "undefined"
+        },
+        "Netherite Chestplate":
+        {
+            "name": "Netherite Chestplate",
+            "id": "minecraft:netherite_chestplate",
+            "durability": 592,
+            "special_effect": "undefined"
+        },
+        "Cloth Chest 1":
+        {
+            "name": "Cloth Chest 1",
+            "id": "cte_essentials:cloth_0_chestplate",
+            "durability": 80,
+            "special_effect": "undefined"
+        },
+        "Cloth Chest 2":
+        {
+            "name": "Cloth Chest 2",
+            "id": "cte_essentials:cloth_1_chestplate",
+            "durability": 160,
+            "special_effect": "undefined"
+        },
+        "Cloth Chest 3":
+        {
+            "name": "Cloth Chest 3",
+            "id": "cte_essentials:cloth_2_chestplate",
+            "durability": 240,
+            "special_effect": "undefined"
+        },
+        "Cloth Chest 4":
+        {
+            "name": "Cloth Chest 4",
+            "id": "cte_essentials:cloth_3_chestplate",
+            "durability": 320,
+            "special_effect": "undefined"
+        },
+        "Cloth Chest 5":
+        {
+            "name": "Cloth Chest 5",
+            "id": "cte_essentials:cloth_4_chestplate",
+            "durability": 400,
+            "special_effect": "undefined"
+        },
+        "Cloth Chest 6":
+        {
+            "name": "Cloth Chest 6",
+            "id": "cte_essentials:cloth_5_chestplate",
+            "durability": 480,
+            "special_effect": "undefined"
+        },
+        "Leather Chest 1":
+        {
+            "name": "Leather Chest 1",
+            "id": "cte_essentials:leather_0_chestplate",
+            "durability": 80,
+            "special_effect": "undefined"
+        },
+        "Leather Chest 2":
+        {
+            "name": "Leather Chest 2",
+            "id": "cte_essentials:leather_1_chestplate",
+            "durability": 160,
+            "special_effect": "undefined"
+        },
+        "Leather Chest 3":
+        {
+            "name": "Leather Chest 3",
+            "id": "cte_essentials:leather_2_chestplate",
+            "durability": 240,
+            "special_effect": "undefined"
+        },
+        "Leather Chest 4":
+        {
+            "name": "Leather Chest 4",
+            "id": "cte_essentials:leather_3_chestplate",
+            "durability": 320,
+            "special_effect": "undefined"
+        },
+        "Leather Chest 5":
+        {
+            "name": "Leather Chest 5",
+            "id": "cte_essentials:leather_4_chestplate",
+            "durability": 400,
+            "special_effect": "undefined"
+        },
+        "Leather Chest 6":
+        {
+            "name": "Leather Chest 6",
+            "id": "cte_essentials:leather_5_chestplate",
+            "durability": 480,
+            "special_effect": "undefined"
+        },
+        "Plate Chest 1":
+        {
+            "name": "Plate Chest 1",
+            "id": "cte_essentials:plate_0_chestplate",
+            "durability": 80,
+            "special_effect": "undefined"
+        },
+        "Plate Chest 2":
+        {
+            "name": "Plate Chest 2",
+            "id": "cte_essentials:plate_1_chestplate",
+            "durability": 160,
+            "special_effect": "undefined"
+        },
+        "Plate Chest 3":
+        {
+            "name": "Plate Chest 3",
+            "id": "cte_essentials:plate_2_chestplate",
+            "durability": 240,
+            "special_effect": "undefined"
+        },
+        "Plate Chest 4":
+        {
+            "name": "Plate Chest 4",
+            "id": "cte_essentials:plate_3_chestplate",
+            "durability": 320,
+            "special_effect": "undefined"
+        },
+        "Plate Chest 5":
+        {
+            "name": "Plate Chest 5",
+            "id": "cte_essentials:plate_4_chestplate",
+            "durability": 400,
+            "special_effect": "undefined"
+        },
+        "Plate Chest 6":
+        {
+            "name": "Plate Chest 6",
+            "id": "cte_essentials:plate_5_chestplate",
+            "durability": 480,
+            "special_effect": "undefined"
+        },
+        "Manasteel Chestplate":
+        {
+            "name": "Manasteel Chestplate",
+            "id": "botania:manasteel_chestplate",
+            "durability": 256,
+            "special_effect": "undefined"
+        },
+        "Terrasteel Chestplate":
+        {
+            "name": "Terrasteel Chestplate",
+            "id": "botania:terrasteel_chestplate",
+            "durability": 544,
+            "special_effect": "undefined"
+        },
+        "Manaweave Robe Top":
+        {
+            "name": "Manaweave Robe Top",
+            "id": "botania:manaweave_chestplate",
+            "durability": 80,
+            "special_effect": "undefined"
+        },
+        "Depth Chestplate":
+        {
+            "name": "Depth Chestplate",
+            "id": "seadwellers:depth_chestplate",
+            "durability": 528,
+            "special_effect": "undefined"
+        },
+        "Cloggrum Chestplate":
+        {
+            "name": "Cloggrum Chestplate",
+            "id": "undergarden:cloggrum_chestplate",
+            "durability": 320,
+            "special_effect": "undefined"
+        },
+        "Froststeel Chestplate":
+        {
+            "name": "Froststeel Chestplate",
+            "id": "undergarden:froststeel_chestplate",
+            "durability": 400,
+            "special_effect": "undefined"
+        },
+        "Utherium Chestplate":
+        {
+            "name": "Utherium Chestplate",
+            "id": "undergarden:utherium_chestplate",
+            "durability": 480,
+            "special_effect": "undefined"
+        },
+        "Ancient Chestplate":
+        {
+            "name": "Ancient Chestplate",
+            "id": "undergarden:ancient_chestplate",
+            "durability": 592,
+            "special_effect": "undefined"
+        },
+        "Rose Crystal Chestplate":
+        {
+            "name": "Rose Crystal Chestplate",
+            "id": "outer_end:rose_crystal_chestplate",
+            "durability": 592,
+            "special_effect": "undefined"
+        },
+        "Mint Crystal Chestplate":
+        {
+            "name": "Mint Crystal Chestplate",
+            "id": "outer_end:mint_crystal_chestplate",
+            "durability": 592,
+            "special_effect": "undefined"
+        },
+        "Cobalt Crystal Chestplate":
+        {
+            "name": "Cobalt Crystal Chestplate",
+            "id": "outer_end:cobalt_crystal_chestplate",
+            "durability": 592,
+            "special_effect": "undefined"
+        },
+        "Tungsten Chestplate":
+        {
+            "name": "Tungsten Chestplate",
+            "id": "stalwart_dungeons:tungsten_chestplate",
+            "durability": 400,
+            "special_effect": "undefined"
+        },
+        "Warted Chestplate":
+        {
+            "name": "Warted Chestplate",
+            "id": "stalwart_dungeons:warted_tungsten_chestplate",
+            "durability": 400,
+            "special_effect": "undefined"
+        },
+        "Chorundum Chestplate":
+        {
+            "name": "Chorundum Chestplate",
+            "id": "stalwart_dungeons:chorundum_armor_chestplate",
+            "durability": 560,
+            "special_effect": "undefined"
+        },
+        "Geomancer Robe":
+        {
+            "name": "Geomancer Robe",
+            "id": "mowziesmobs:geomancer_robe",
+            "durability": 528,
+            "special_effect": "undefined"
+        },
+        "Neptunium Chestplate":
+        {
+            "name": "Neptunium Chestplate",
+            "id": "aquaculture:neptunium_chestplate",
+            "durability": 560,
+            "special_effect": "undefined"
+        },
+        "Terrible Chestplate":
+        {
+            "name": "Terrible Chestplate",
+            "id": "aquamirae:terrible_chestplate",
+            "durability": 400,
+            "special_effect": "undefined"
+        },
+        "Brigantine of the Blinding Abyss":
+        {
+            "name": "Brigantine of the Blinding Abyss",
+            "id": "aquamirae:abyssal_brigantine",
+            "durability": 640,
+            "special_effect": "undefined"
+        },
+        "Three-Bolt Suit":
+        {
+            "name": "Three-Bolt Suit",
+            "id": "aquamirae:three_bolt_suit",
+            "durability": 1200,
+            "special_effect": "undefined"
+        },
+        "Pyrope Chestplate":
+        {
+            "name": "Pyrope Chestplate",
+            "id": "blue_skies:pyrope_chestplate",
+            "durability": 240,
+            "special_effect": "undefined"
+        },
+        "Aquite Chestplate":
+        {
+            "name": "Aquite Chestplate",
+            "id": "blue_skies:aquite_chestplate",
+            "durability": 240,
+            "special_effect": "undefined"
+        },
+        "Diopside Chestpalte":
+        {
+            "name": "Diopside Chestpalte",
+            "id": "blue_skies:diopside_chestplate",
+            "durability": 576,
+            "special_effect": "undefined"
+        },
+        "Charoite Chestplate":
+        {
+            "name": "Charoite Chestplate",
+            "id": "blue_skies:charoite_chestplate",
+            "durability": 528,
+            "special_effect": "undefined"
+        },
+        "Horizonite Chestplate":
+        {
+            "name": "Horizonite Chestplate",
+            "id": "blue_skies:horizonite_chestplate",
+            "durability": 240,
+            "special_effect": "undefined"
+        },
+        "Crocodile Chestplate":
+        {
+            "name": "Crocodile Chestplate",
+            "id": "alexsmobs:crocodile_chestplate",
+            "durability": 330,
+            "special_effect": "undefined"
+        },
+        "Rock Shell Chestplate":
+        {
+            "name": "Rock Shell Chestplate",
+            "id": "alexsmobs:rocky_chestplate",
+            "durability": 300,
+            "special_effect": "undefined"
+        },
+        "Ironwood Chestplate":
+        {
+            "name": "Ironwood Chestplate",
+            "id": "twilightforest:ironwood_chestplate",
+            "durability": 320,
+            "special_effect": "undefined"
+        },
+        "Steeleaf Chestplate":
+        {
+            "name": "Steeleaf Chestplate",
+            "id": "twilightforest:steeleaf_chestplate",
+            "durability": 160,
+            "special_effect": "undefined"
+        },
+        "Knightmetal Chestplate":
+        {
+            "name": "Knightmetal Chestplate",
+            "id": "twilightforest:knightmetal_chestplate",
+            "durability": 320,
+            "special_effect": "undefined"
+        },
+        "Fiery Chestplate":
+        {
+            "name": "Fiery Chestplate",
+            "id": "twilightforest:fiery_chestplate",
+            "durability": 400,
+            "special_effect": "undefined"
+        },
+        "Arctic Jacket":
+        {
+            "name": "Arctic Jacket",
+            "id": "twilightforest:arctic_chestplate",
+            "durability": 160,
+            "special_effect": "undefined"
+        },
+        "Yeti Jacket":
+        {
+            "name": "Yeti Jacket",
+            "id": "twilightforest:yeti_chestplate",
+            "durability": 320,
+            "special_effect": "undefined"
+        },
+        "Plantom Chestplate":
+        {
+            "name": "Plantom Chestplate",
+            "id": "twilightforest:plantom_chestplate",
+            "durability": 480,
+            "special_effect": "undefined"
+        },
+        "Naga Scale Tunic":
+        {
+            "name": "Naga Scale Tunic",
+            "id": "twilightforest:naga_chestplate",
+            "durability": 336,
+            "special_effect": "undefined"
+        },
+        "Genji Domaru":
+        {
+            "name": "Genji Domaru",
+            "id": "cte2modpackarmors:tempered_samurai_armor_chestplate",
+            "durability": 528,
+            "special_effect": "undefined"
+        },
+        "Nebula's Cloak":
+        {
+            "name": "Nebula's Cloak",
+            "id": "cte2modpackarmors:mage_hunter_armor_chestplate",
+            "durability": 528,
+            "special_effect": "undefined"
+        },
+        "Last Tracker Chestplate":
+        {
+            "name": "Last Tracker Chestplate",
+            "id": "cte2modpackarmors:last_tracker_armor_chestplate",
+            "durability": 528,
+            "special_effect": "undefined"
+        },
+        "Mahj's Oath":
+        {
+            "name": "Mahj's Oath",
+            "id": "cte2modpackarmors:oath_of_mahj_armor_chestplate",
+            "durability": 528,
+            "special_effect": "undefined"
+        },
+        "Granat's Persistence":
+        {
+            "name": "Granat's Persistence",
+            "id": "cte2modpackarmors:endless_blood_armor_chestplate",
+            "durability": 528,
+            "special_effect": "undefined"
+        },
+        "Jubban's Embrace":
+        {
+            "name": "Jubban's Embrace",
+            "id": "cte2modpackarmors:divine_plate_armor_chestplate",
+            "durability": 528,
+            "special_effect": "undefined"
+        },
+        "Resonarium Chestplate":
+        {
+            "name": "Resonarium Chestplate",
+            "id": "deeperdarker:resonarium_chestplate",
+            "durability": 480,
+            "special_effect": "undefined"
+        },
+        "Warden Chestplate":
+        {
+            "name": "Warden Chestplate",
+            "id": "deeperdarker:warden_chestplate",
+            "durability": 640,
+            "special_effect": "undefined"
+        },
+        "Chocodisguise Body":
+        {
+            "name": "Chocodisguise Body",
+            "id": "chococraft:choco_disguise_chestplate",
+            "durability": 3200,
+            "special_effect": "undefined"
+        },
+        "Dark Metal Chestplate":
+        {
+            "name": "Dark Metal Chestplate",
+            "id": "born_in_chaos_v1:dark_metal_armor_chestplate",
+            "durability": 800,
+            "special_effect": "undefined"
+        },
+        "Nightmare Robe":
+        {
+            "name": "Nightmare Robe",
+            "id": "born_in_chaos_v1:nightmare_mantleofthe_night_chestplate",
+            "durability": 480,
+            "special_effect": "undefined"
+        },
+        "Spiny Shell Chestplate":
+        {
+            "name": "Spiny Shell Chestplate",
+            "id": "born_in_chaos_v1:spiny_shell_armor_chestplate",
+            "durability": 320,
+            "special_effect": "undefined"
+        }
+    },
+    "elytra":
+    {
+        "Elytra":
+        {
+            "name": "Elytra",
+            "id": "minecraft:elytra",
+            "durability": 432,
+            "special_effect": "undefined"
+        },
+        "Tarantula Hawk Elytra":
+        {
+            "name": "Tarantula Hawk Elytra",
+            "id": "alexsmobs:tarantula_hawk_elytra",
+            "durability": 800,
+            "special_effect": "undefined"
+        },
+        "Soul Elytra":
+        {
+            "name": "Soul Elytra",
+            "id": "deeperdarker:soul_elytra",
+            "durability": 800,
+            "special_effect": "undefined"
+        }
+    },
+    "pants":
+    {
+        "Leather Pants":
+        {
+            "name": "Leather Pants",
+            "id": "minecraft:leather_leggings",
+            "durability": 75,
+            "special_effect":"undefined"
+        },
+        "Chainmail Leggings":
+        {
+            "name": "Chainmail Leggings",
+            "id": "minecraft:chainmail_leggings",
+            "durability": 225,
+            "special_effect":"undefined"
+        },
+        "Iron Leggings":
+        {
+            "name": "Iron Leggings",
+            "id": "minecraft:iron_leggings",
+            "durability": 225,
+            "special_effect":"undefined"
+        },
+        "Golden Leggings":
+        {
+            "name": "Golden Leggings",
+            "id": "minecraft:golden_leggings",
+            "durability": 105,
+            "special_effect":"undefined"
+        },
+        "Diamond Leggings":
+        {
+            "name": "Diamond Leggings",
+            "id": "minecraft:diamond_leggings",
+            "durability": 495,
+            "special_effect":"undefined"
+        },
+        "Netherite Leggings":
+        {
+            "name": "Netherite Leggings",
+            "id": "minecraft:netherite_leggings",
+            "durability": 555,
+            "special_effect":"undefined"
+        },
+        "Cloth Pants 1":
+        {
+            "name": "Cloth Pants 1",
+            "id": "cte_essentials:cloth_0_leggings",
+            "durability": 75,
+            "special_effect":"undefined"
+        },
+        "Cloth Pants 2":
+        {
+            "name": "Cloth Pants 2",
+            "id": "cte_essentials:cloth_1_leggings",
+            "durability": 150,
+            "special_effect":"undefined"
+        },
+        "Cloth Pants 3":
+        {
+            "name": "Cloth Pants 3",
+            "id": "cte_essentials:cloth_2_leggings",
+            "durability": 225,
+            "special_effect":"undefined"
+        },
+        "Cloth Pants 4":
+        {
+            "name": "Cloth Pants 4",
+            "id": "cte_essentials:cloth_3_leggings",
+            "durability": 300,
+            "special_effect":"undefined"
+        },
+        "Cloth Pants 5":
+        {
+            "name": "Cloth Pants 5",
+            "id": "cte_essentials:cloth_4_leggings",
+            "durability": 375,
+            "special_effect":"undefined"
+        },
+        "Cloth Pants 6":
+        {
+            "name": "Cloth Pants 6",
+            "id": "cte_essentials:cloth_5_leggings",
+            "durability": 450,
+            "special_effect":"undefined"
+        },
+        "Leather Pants 1":
+        {
+            "name": "Leather Pants 1",
+            "id": "cte_essentials:leather_0_leggings",
+            "durability": 75,
+            "special_effect":"undefined"
+        },
+        "Leather Pants 2":
+        {
+            "name": "Leather Pants 2",
+            "id": "cte_essentials:leather_1_leggings",
+            "durability": 150,
+            "special_effect":"undefined"
+        },
+        "Leather Pants 3":
+        {
+            "name": "Leather Pants 3",
+            "id": "cte_essentials:leather_2_leggings",
+            "durability": 225,
+            "special_effect":"undefined"
+        },
+        "Leather Pants 4":
+        {
+            "name": "Leather Pants 4",
+            "id": "cte_essentials:leather_3_leggings",
+            "durability": 300,
+            "special_effect":"undefined"
+        },
+        "Leather Pants 5":
+        {
+            "name": "Leather Pants 5",
+            "id": "cte_essentials:leather_4_leggings",
+            "durability": 375,
+            "special_effect":"undefined"
+        },
+        "Leather Pants 6":
+        {
+            "name": "Leather Pants 6",
+            "id": "cte_essentials:leather_5_leggings",
+            "durability": 450,
+            "special_effect":"undefined"
+        },
+        "Plate Pants 1":
+        {
+            "name": "Plate Pants 1",
+            "id": "cte_essentials:plate_0_leggings",
+            "durability": 75,
+            "special_effect":"undefined"
+        },
+        "Plate Pants 2":
+        {
+            "name": "Plate Pants 2",
+            "id": "cte_essentials:plate_1_leggings",
+            "durability": 150,
+            "special_effect":"undefined"
+        },
+        "Plate Pants 3":
+        {
+            "name": "Plate Pants 3",
+            "id": "cte_essentials:plate_2_leggings",
+            "durability": 225,
+            "special_effect":"undefined"
+        },
+        "Plate Pants 4":
+        {
+            "name": "Plate Pants 4",
+            "id": "cte_essentials:plate_3_leggings",
+            "durability": 300,
+            "special_effect":"undefined"
+        },
+        "Plate Pants 5":
+        {
+            "name": "Plate Pants 5",
+            "id": "cte_essentials:plate_4_leggings",
+            "durability": 375,
+            "special_effect":"undefined"
+        },
+        "Plate Pants 6":
+        {
+            "name": "Plate Pants 6",
+            "id": "cte_essentials:plate_5_leggings",
+            "durability": 450,
+            "special_effect":"undefined"
+        },
+        "Manasteel Leggings":
+        {
+            "name": "Manasteel Leggings",
+            "id": "botania:manasteel_leggings",
+            "durability": 240,
+            "special_effect":"undefined"
+        },
+        "Terrasteel Leggings":
+        {
+            "name": "Terrasteel Leggings",
+            "id": "botania:terrasteel_leggings",
+            "durability": 510,
+            "special_effect":"undefined"
+        },
+        "Manaweave Robe Bottom":
+        {
+            "name": "Manaweave Robe Bottom",
+            "id": "botania:manaweave_leggings",
+            "durability": 75,
+            "special_effect":"undefined"
+        },
+        "Depth Leggings":
+        {
+            "name": "Depth Leggings",
+            "id": "seadwellers:depth_leggings",
+            "durability": 495,
+            "special_effect":"undefined"
+        },
+        "Cloggrum Leggings":
+        {
+            "name": "Cloggrum Leggings",
+            "id": "undergarden:cloggrum_leggings",
+            "durability": 300,
+            "special_effect":"undefined"
+        },
+        "Froststeel Leggings":
+        {
+            "name": "Froststeel Leggings",
+            "id": "undergarden:froststeel_leggings",
+            "durability": 375,
+            "special_effect":"undefined"
+        },
+        "Utherium Leggings":
+        {
+            "name": "Utherium Leggings",
+            "id": "undergarden:utherium_leggings",
+            "durability": 450,
+            "special_effect":"undefined"
+        },
+        "Ancient Leggings":
+        {
+            "name": "Ancient Leggings",
+            "id": "undergarden:ancient_leggings",
+            "durability": 555,
+            "special_effect":"undefined"
+        },
+        "Rose Crystal Leggings":
+        {
+            "name": "Rose Crystal Leggings",
+            "id": "outer_end:rose_crystal_leggings",
+            "durability": 555,
+            "special_effect":"undefined"
+        },
+        "Mint Crystal Leggings":
+        {
+            "name": "Mint Crystal Leggings",
+            "id": "outer_end:mint_crystal_leggings",
+            "durability": 555,
+            "special_effect":"undefined"
+        },
+        "Cobalt Crystal Leggings":
+        {
+            "name": "Cobalt Crystal Leggings",
+            "id": "outer_end:cobalt_crystal_leggings",
+            "durability": 555,
+            "special_effect":"undefined"
+        },
+        "Tungsten Leggings":
+        {
+            "name": "Tungsten Leggings",
+            "id": "stalwart_dungeons:tungsten_leggings",
+            "durability": 375,
+            "special_effect":"undefined"
+        },
+        "Warted Leggings":
+        {
+            "name": "Warted Leggings",
+            "id": "stalwart_dungeons:warted_tungsten_leggings",
+            "durability": 375,
+            "special_effect":"undefined"
+        },
+        "Chorundum Leggings":
+        {
+            "name": "Chorundum Leggings",
+            "id": "stalwart_dungeons:chorundum_armor_leggings",
+            "durability": 525,
+            "special_effect":"undefined"
+        },
+        "Geomancer Belt":
+        {
+            "name": "Geomancer Belt",
+            "id": "mowziesmobs:geomancer_belt",
+            "durability": 495,
+            "special_effect":"undefined"
+        },
+        "Neptunium Leggings":
+        {
+            "name": "Neptunium Leggings",
+            "id": "aquaculture:neptunium_leggings",
+            "durability": 525,
+            "special_effect":"undefined"
+        },
+        "Terrible Leggings":
+        {
+            "name": "Terrible Leggings",
+            "id": "aquamirae:terrible_leggings",
+            "durability": 375,
+            "special_effect":"undefined"
+        },
+        "Leggings of the Blinding Abyss":
+        {
+            "name": "Leggings of the Blinding Abyss",
+            "id": "aquamirae:abyssal_leggings",
+            "durability": 600,
+            "special_effect":"undefined"
+        },
+        "Three-Bolt Leggings":
+        {
+            "name": "Three-Bolt Leggings",
+            "id": "aquamirae:three_bolt_leggings",
+            "durability": 1125,
+            "special_effect":"undefined"
+        },
+        "Pyrope Leggings":
+        {
+            "name": "Pyrope Leggings",
+            "id": "blue_skies:pyrope_leggings",
+            "durability": 225,
+            "special_effect":"undefined"
+        },
+        "Aquite Leggings":
+        {
+            "name": "Aquite Leggings",
+            "id": "blue_skies:aquite_leggings",
+            "durability": 225,
+            "special_effect":"undefined"
+        },
+        "Diopside Leggings":
+        {
+            "name": "Diopside Leggings",
+            "id": "blue_skies:diopside_leggings",
+            "durability": 540,
+            "special_effect":"undefined"
+        },
+        "Charoite Leggings":
+        {
+            "name": "Charoite Leggings",
+            "id": "blue_skies:charoite_leggings",
+            "durability": 495,
+            "special_effect":"undefined"
+        },
+        "Horizonite Leggings":
+        {
+            "name": "Horizonite Leggings",
+            "id": "blue_skies:horizonite_leggings",
+            "durability": 225,
+            "special_effect":"undefined"
+        },
+        "Cave Centipede Leggings":
+        {
+            "name": "Cave Centipede Leggings",
+            "id": "alexsmobs:centipede_leggings",
+            "durability": 320,
+            "special_effect":"undefined"
+        },
+        "Outback Leggings":
+        {
+            "name": "Outback Leggings",
+            "id": "alexsmobs:emu_leggings",
+            "durability": 144,
+            "special_effect":"undefined"
+        },
+        "Ironwood Leggings":
+        {
+            "name": "Ironwood Leggings",
+            "id": "twilightforest:ironwood_leggings",
+            "durability": 300,
+            "special_effect":"undefined"
+        },
+        "Steeleaf Leggings":
+        {
+            "name": "Steeleaf Leggings",
+            "id": "twilightforest:steeleaf_leggings",
+            "durability": 150,
+            "special_effect":"undefined"
+        },
+        "Knightmetal Leggings":
+        {
+            "name": "Knightmetal Leggings",
+            "id": "twilightforest:knightmetal_leggings",
+            "durability": 300,
+            "special_effect":"undefined"
+        },
+        "Fiery Leggings":
+        {
+            "name": "Fiery Leggings",
+            "id": "twilightforest:fiery_leggings",
+            "durability": 375,
+            "special_effect":"undefined"
+        },
+        "Arctic Leggings":
+        {
+            "name": "Arctic Leggings",
+            "id": "twilightforest:arctic_leggings",
+            "durability": 150,
+            "special_effect":"undefined"
+        },
+        "Yeti Leggings":
+        {
+            "name": "Yeti Leggings",
+            "id": "twilightforest:yeti_leggings",
+            "durability": 300,
+            "special_effect":"undefined"
+        },
+        "Naga Scale Leggings":
+        {
+            "name": "Naga Scale Leggings",
+            "id": "twilightforest:naga_leggings",
+            "durability": 315,
+            "special_effect":"undefined"
+        },
+        "Genji Tsutsu-hakame":
+        {
+            "name": "Genji Tsutsu-hakame",
+            "id": "cte2modpackarmors:tempered_samurai_armor_leggings",
+            "durability": 495,
+            "special_effect":"undefined"
+        },
+        "Nebula's Leggings":
+        {
+            "name": "Nebula's Leggings",
+            "id": "cte2modpackarmors:mage_hunter_armor_leggings",
+            "durability": 495,
+            "special_effect":"undefined"
+        },
+        "Last Tracker Leggings":
+        {
+            "name": "Last Tracker Leggings",
+            "id": "cte2modpackarmors:last_tracker_armor_leggings",
+            "durability": 495,
+            "special_effect":"undefined"
+        },
+        "Mahj's Foundation":
+        {
+            "name": "Mahj's Foundation",
+            "id": "cte2modpackarmors:oath_of_mahj_armor_leggings",
+            "durability": 495,
+            "special_effect":"undefined"
+        },
+        "Jubban's Comfort":
+        {
+            "name": "Jubban's Comfort",
+            "id": "cte2modpackarmors:divine_plate_armor_leggings",
+            "durability": 495,
+            "special_effect":"undefined"
+        },
+        "Resonarium Leggings":
+        {
+            "name": "Resonarium Leggings",
+            "id": "deeperdarker:resonarium_leggings",
+            "durability": 450,
+            "special_effect":"undefined"
+        },
+        "Chocodisguise Legs":
+        {
+            "name": "Chocodisguise Legs",
+            "id": "chococraft:choco_disguise_leggings",
+            "durability": 3000,
+            "special_effect":"undefined"
+        },
+        "Dark Metal Leggings":
+        {
+            "name": "Dark Metal Leggings",
+            "id": "born_in_chaos_v1:dark_metal_armor_leggings",
+            "durability": 750,
+            "special_effect":"undefined"
+        },
+        "Nightmare Pants":
+        {
+            "name": "Nightmare Pants",
+            "id": "born_in_chaos_v1:nightmare_mantleofthe_night_leggings",
+            "durability": 450,
+            "special_effect":"undefined"
+        }
+    },
+    "boots":
+    {
+        "Leather Boots":
+        {
+            "name": "Leather Boots",
+            "id": "minecraft:leather_boots",
+            "durability": 65,
+            "special_effect":"undefined"
+        },
+        "Chainmail Boots":
+        {
+            "name": "Chainmail Boots",
+            "id": "minecraft:chainmail_boots",
+            "durability": 195,
+            "special_effect":"undefined"
+        },
+        "Iron Boots":
+        {
+            "name": "Iron Boots",
+            "id": "minecraft:iron_boots",
+            "durability": 195,
+            "special_effect":"undefined"
+        },
+        "Golden Boots":
+        {
+            "name": "Golden Boots",
+            "id": "minecraft:golden_boots",
+            "durability": 91,
+            "special_effect":"undefined"
+        },
+        "Diamond Boots":
+        {
+            "name": "Diamond Boots",
+            "id": "minecraft:diamond_boots",
+            "durability": 429,
+            "special_effect":"undefined"
+        },
+        "Netherite Boots":
+        {
+            "name": "Netherite Boots",
+            "id": "minecraft:netherite_boots",
+            "durability": 481,
+            "special_effect":"undefined"
+        },
+        "Cloth Boots 1":
+        {
+            "name": "Cloth Boots 1",
+            "id": "cte_essentials:cloth_0_boots",
+            "durability": 65,
+            "special_effect":"undefined"
+        },
+        "Cloth Boots 2":
+        {
+            "name": "Cloth Boots 2",
+            "id": "cte_essentials:cloth_1_boots",
+            "durability": 130,
+            "special_effect":"undefined"
+        },
+        "Cloth Boots 3":
+        {
+            "name": "Cloth Boots 3",
+            "id": "cte_essentials:cloth_2_boots",
+            "durability": 195,
+            "special_effect":"undefined"
+        },
+        "Cloth Boots 4":
+        {
+            "name": "Cloth Boots 4",
+            "id": "cte_essentials:cloth_3_boots",
+            "durability": 260,
+            "special_effect":"undefined"
+        },
+        "Cloth Boots 5":
+        {
+            "name": "Cloth Boots 5",
+            "id": "cte_essentials:cloth_4_boots",
+            "durability": 325,
+            "special_effect":"undefined"
+        },
+        "Cloth Boots 6":
+        {
+            "name": "Cloth Boots 6",
+            "id": "cte_essentials:cloth_5_boots",
+            "durability": 390,
+            "special_effect":"undefined"
+        },
+        "Leather Boots 1":
+        {
+            "name": "Leather Boots 1",
+            "id": "cte_essentials:leather_0_boots",
+            "durability": 65,
+            "special_effect":"undefined"
+        },
+        "Leather Boots 2":
+        {
+            "name": "Leather Boots 2",
+            "id": "cte_essentials:leather_1_boots",
+            "durability": 130,
+            "special_effect":"undefined"
+        },
+        "Leather Boots 3":
+        {
+            "name": "Leather Boots 3",
+            "id": "cte_essentials:leather_2_boots",
+            "durability": 195,
+            "special_effect":"undefined"
+        },
+        "Leather Boots 4":
+        {
+            "name": "Leather Boots 4",
+            "id": "cte_essentials:leather_3_boots",
+            "durability": 260,
+            "special_effect":"undefined"
+        },
+        "Leather Boots 5":
+        {
+            "name": "Leather Boots 5",
+            "id": "cte_essentials:leather_4_boots",
+            "durability": 325,
+            "special_effect":"undefined"
+        },
+        "Leather Boots 6":
+        {
+            "name": "Leather Boots 6",
+            "id": "cte_essentials:leather_5_boots",
+            "durability": 390,
+            "special_effect":"undefined"
+        },
+        "Plate Boots 1":
+        {
+            "name": "Plate Boots 1",
+            "id": "cte_essentials:plate_0_boots",
+            "durability": 65,
+            "special_effect":"undefined"
+        },
+        "Plate Boots 2":
+        {
+            "name": "Plate Boots 2",
+            "id": "cte_essentials:plate_1_boots",
+            "durability": 130,
+            "special_effect":"undefined"
+        },
+        "Plate Boots 3":
+        {
+            "name": "Plate Boots 3",
+            "id": "cte_essentials:plate_2_boots",
+            "durability": 195,
+            "special_effect":"undefined"
+        },
+        "Plate Boots 4":
+        {
+            "name": "Plate Boots 4",
+            "id": "cte_essentials:plate_3_boots",
+            "durability": 260,
+            "special_effect":"undefined"
+        },
+        "Plate Boots 5":
+        {
+            "name": "Plate Boots 5",
+            "id": "cte_essentials:plate_4_boots",
+            "durability": 325,
+            "special_effect":"undefined"
+        },
+        "Plate Boots 6":
+        {
+            "name": "Plate Boots 6",
+            "id": "cte_essentials:plate_5_boots",
+            "durability": 390,
+            "special_effect":"undefined"
+        },
+        "Manasteel Boots":
+        {
+            "name": "Manasteel Boots",
+            "id": "botania:manasteel_boots",
+            "durability": 208,
+            "special_effect":"undefined"
+        },
+        "Terrasteel Boots":
+        {
+            "name": "Terrasteel Boots",
+            "id": "botania:terrasteel_boots",
+            "durability": 442,
+            "special_effect":"undefined"
+        },
+        "Manaweave Boots":
+        {
+            "name": "Manaweave Boots",
+            "id": "botania:manaweave_boots",
+            "durability": 65,
+            "special_effect":"undefined"
+        },
+        "Mutant Skeleton Boots":
+        {
+            "name": "Mutant Skeleton Boots",
+            "id": "mutantmonsters:mutant_skeleton_boots",
+            "durability": 195,
+            "special_effect":"undefined"
+        },
+        "Depth Boots":
+        {
+            "name": "Depth Boots",
+            "id": "seadwellers:depth_boots",
+            "durability": 429,
+            "special_effect":"undefined"
+        },
+        "Cloggrum Boots":
+        {
+            "name": "Cloggrum Boots",
+            "id": "undergarden:cloggrum_boots",
+            "durability": 260,
+            "special_effect":"undefined"
+        },
+        "Froststeel Boots":
+        {
+            "name": "Froststeel Boots",
+            "id": "undergarden:froststeel_boots",
+            "durability": 325,
+            "special_effect":"undefined"
+        },
+        "Utherium Boots":
+        {
+            "name": "Utherium Boots",
+            "id": "undergarden:utherium_boots",
+            "durability": 390,
+            "special_effect":"undefined"
+        },
+        "Rose Crystal Boots":
+        {
+            "name": "Rose Crystal Boots",
+            "id": "outer_end:rose_crystal_boots",
+            "durability": 481,
+            "special_effect":"undefined"
+        },
+        "Mint Crystal Boots":
+        {
+            "name": "Mint Crystal Boots",
+            "id": "outer_end:mint_crystal_boots",
+            "durability": 481,
+            "special_effect":"undefined"
+        },
+        "Cobalt Crystal Boots":
+        {
+            "name": "Cobalt Crystal Boots",
+            "id": "outer_end:cobalt_crystal_boots",
+            "durability": 481,
+            "special_effect":"undefined"
+        },
+        "Tungsten Boots":
+        {
+            "name": "Tungsten Boots",
+            "id": "stalwart_dungeons:tungsten_boots",
+            "durability": 325,
+            "special_effect":"undefined"
+        },
+        "Warted Boots":
+        {
+            "name": "Warted Boots",
+            "id": "stalwart_dungeons:warted_tungsten_boots",
+            "durability": 325,
+            "special_effect":"undefined"
+        },
+        "Chorundum Boots":
+        {
+            "name": "Chorundum Boots",
+            "id": "stalwart_dungeons:chorundum_armor_boots",
+            "durability": 455,
+            "special_effect":"undefined"
+        },
+        "Geomancer Sandals":
+        {
+            "name": "Geomancer Sandals",
+            "id": "mowziesmobs:geomancer_sandals",
+            "durability": 429,
+            "special_effect":"undefined"
+        },
+        "Neptunium Boots":
+        {
+            "name": "Neptunium Boots",
+            "id": "aquaculture:neptunium_boots",
+            "durability": 455,
+            "special_effect":"undefined"
+        },
+        "Terrible Boots":
+        {
+            "name": "Terrible Boots",
+            "id": "aquamirae:terrible_boots",
+            "durability": 325,
+            "special_effect":"undefined"
+        },
+        "Boots of the Blinding Abyss":
+        {
+            "name": "Boots of the Blinding Abyss",
+            "id": "aquamirae:abyssal_boots",
+            "durability": 520,
+            "special_effect":"undefined"
+        },
+        "Three-Bolt Boots":
+        {
+            "name": "Three-Bolt Boots",
+            "id": "aquamirae:three_bolt_boots",
+            "durability": 975,
+            "special_effect":"undefined"
+        },
+        "Pyrope Boots":
+        {
+            "name": "Pyrope Boots",
+            "id": "blue_skies:pyrope_boots",
+            "durability": 195,
+            "special_effect":"undefined"
+        },
+        "Aquite_Boots":
+        {
+            "name": "Aquite_Boots",
+            "id": "blue_skies:aquite_boots",
+            "durability": 195,
+            "special_effect":"undefined"
+        },
+        "Diopside Boots":
+        {
+            "name": "Diopside Boots",
+            "id": "blue_skies:diopside_boots",
+            "durability": 468,
+            "special_effect":"undefined"
+        },
+        "Charoite Boots":
+        {
+            "name": "Charoite Boots",
+            "id": "blue_skies:charoite_boots",
+            "durability": 429,
+            "special_effect":"undefined"
+        },
+        "Horizonite Boots":
+        {
+            "name": "Horizonite Boots",
+            "id": "blue_skies:horizonite_boots",
+            "durability": 195,
+            "special_effect":"undefined"
+        },
+        "Roadrunner Boots":
+        {
+            "name": "Roadrunner Boots",
+            "id": "alexsmobs:roadrunner_boots",
+            "durability": 198,
+            "special_effect":"undefined"
+        },
+        "Flying Fish Boots":
+        {
+            "name": "Flying Fish Boots",
+            "id": "alexsmobs:flying_fish_boots",
+            "durability": 99,
+            "special_effect":"undefined"
+        },
+        "Ironwood Boots":
+        {
+            "name": "Ironwood Boots",
+            "id": "twilightforest:ironwood_boots",
+            "durability": 260,
+            "special_effect":"undefined"
+        },
+        "Steeleaf Boots":
+        {
+            "name": "Steeleaf Boots",
+            "id": "twilightforest:steeleaf_boots",
+            "durability": 130,
+            "special_effect":"undefined"
+        },
+        "Knightmetal Boots":
+        {
+            "name": "Knightmetal Boots",
+            "id": "twilightforest:knightmetal_boots",
+            "durability": 260,
+            "special_effect":"undefined"
+        },
+        "Fiery Boots":
+        {
+            "name": "Fiery Boots",
+            "id": "twilightforest:fiery_boots",
+            "durability": 325,
+            "special_effect":"undefined"
+        },
+        "Arctic Boots":
+        {
+            "name": "Arctic Boots",
+            "id": "twilightforest:arctic_boots",
+            "durability": 130,
+            "special_effect":"undefined"
+        },
+        "Yeti Boots":
+        {
+            "name": "Yeti Boots",
+            "id": "twilightforest:yeti_boots",
+            "durability": 260,
+            "special_effect":"undefined"
+        },
+        "Genji Sune-ate":
+        {
+            "name": "Genji Sune-ate",
+            "id": "cte2modpackarmors:tempered_samurai_armor_boots",
+            "durability": 429,
+            "special_effect":"undefined"
+        },
+        "Nebula's Shoes":
+        {
+            "name": "Nebula's Shoes",
+            "id": "cte2modpackarmors:mage_hunter_armor_boots",
+            "durability": 429,
+            "special_effect":"undefined"
+        },
+        "Last Tracker Boots":
+        {
+            "name": "Last Tracker Boots",
+            "id": "cte2modpackarmors:last_tracker_armor_boots",
+            "durability": 429,
+            "special_effect":"undefined"
+        },
+        "Mahj's Generosity":
+        {
+            "name": "Mahj's Generosity",
+            "id": "cte2modpackarmors:oath_of_mahj_armor_boots",
+            "durability": 429,
+            "special_effect":"undefined"
+        },
+        "Jubban's Path":
+        {
+            "name": "Jubban's Path",
+            "id": "cte2modpackarmors:divine_plate_armor_boots",
+            "durability": 429,
+            "special_effect":"undefined"
+        },
+        "Resonarium Boots":
+        {
+            "name": "Resonarium Boots",
+            "id": "deeperdarker:resonarium_boots",
+            "durability": 390,
+            "special_effect":"undefined"
+        },
+        "Warden Boots":
+        {
+            "name": "Warden Boots",
+            "id": "deeperdarker:warden_boots",
+            "durability": 520,
+            "special_effect":"undefined"
+        },
+        "Chocodisguise Boots":
+        {
+            "name": "Chocodisguise Boots",
+            "id": "chococraft:choco_disguise_boots",
+            "durability": 2600,
+            "special_effect":"undefined"
+        },
+        "Dark Metal Boots":
+        {
+            "name": "Dark Metal Boots",
+            "id": "born_in_chaos_v1:dark_metal_armor_boots",
+            "durability": 650,
+            "special_effect":"undefined"
+        },
+        "Nightmare Boots":
+        {
+            "name": "Nightmare Boots",
+            "id": "born_in_chaos_v1:nightmare_mantleofthe_night_boots",
+            "durability": 390,
+            "special_effect":"undefined"
+        }
+    },
+    "shield":
+    {
+        "Shield":
+        {
+            "name": "Shield",
+            "id": "minecraft:shield",
+            "durability": 336,
+            "special_effect":"undefined"
+        },
+        "Cloggrum Shield":
+        {
+            "name": "Cloggrum Shield",
+            "id": "undergarden:cloggrum_shield",
+            "durability": 672,
+            "special_effect":"undefined"
+        },
+        "Shulker Shield":
+        {
+            "name": "Shulker Shield",
+            "id": "outer_end:shulker_shield",
+            "durability": 776,
+            "special_effect":"undefined"
+        },
+        "Tungsten Shield":
+        {
+            "name": "Tungsten Shield",
+            "id": "stalwart_dungeons:tungsten_shield",
+            "durability": 750,
+            "special_effect":"undefined"
+        },
+        "Warted Shield":
+        {
+            "name": "Warted Shield",
+            "id": "stalwart_dungeons:warted_tungsten_shield",
+            "durability": 750,
+            "special_effect":"undefined"
+        },
+        "Chorundum Shield":
+        {
+            "name": "Chorundum Shield",
+            "id": "stalwart_dungeons:chorundum_shield",
+            "durability": 2021,
+            "special_effect":"undefined"
+        },
+        "Common Buckler Shield":
+        {
+            "name": "Common Buckler Shield",
+            "id": "roe_weapons:buckler_shield_0",
+            "durability": 340,
+            "special_effect":"undefined"
+        },
+        "Uncommon Buckler Shield":
+        {
+            "name": "Uncommon Buckler Shield",
+            "id": "roe_weapons:buckler_shield_1",
+            "durability": 350,
+            "special_effect":"undefined"
+        },
+        "Rare Buckler Shield":
+        {
+            "name": "Rare Buckler Shield",
+            "id": "roe_weapons:buckler_shield_2",
+            "durability": 380,
+            "special_effect":"undefined"
+        },
+        "Epic Buckler Shield":
+        {
+            "name": "Epic Buckler Shield",
+            "id": "roe_weapons:buckler_shield_3",
+            "durability": 420,
+            "special_effect":"undefined"
+        },
+        "Legendary Buckler Shield":
+        {
+            "name": "Legendary Buckler Shield",
+            "id": "roe_weapons:buckler_shield_4",
+            "durability": 500,
+            "special_effect":"undefined"
+        },
+        "Mythic Buckler Shield":
+        {
+            "name": "Mythic Buckler Shield",
+            "id": "roe_weapons:buckler_shield_5",
+            "durability": 650,
+            "special_effect":"undefined"
+        },
+        "Rune Buckler Shield":
+        {
+            "name": "Rune Buckler Shield",
+            "id": "roe_weapons:buckler_shield_6",
+            "durability": 550,
+            "special_effect":"undefined"
+        },
+        "Unique Buckler Shield":
+        {
+            "name": "Unique Buckler Shield",
+            "id": "roe_weapons:buckler_shield_7",
+            "durability": 850,
+            "special_effect":"undefined"
+        },
+        "Common Shield":
+        {
+            "name": "Common Shield",
+            "id": "roe_weapons:shield_0",
+            "durability": 340,
+            "special_effect":"undefined"
+        },
+        "Uncommon Shield":
+        {
+            "name": "Uncommon Shield",
+            "id": "roe_weapons:shield_1",
+            "durability": 350,
+            "special_effect":"undefined"
+        },
+        "Rare Shield":
+        {
+            "name": "Rare Shield",
+            "id": "roe_weapons:shield_2",
+            "durability": 380,
+            "special_effect":"undefined"
+        },
+        "Epic Shield":
+        {
+            "name": "Epic Shield",
+            "id": "roe_weapons:shield_3",
+            "durability": 420,
+            "special_effect":"undefined"
+        },
+        "Legendary Shield":
+        {
+            "name": "Legendary Shield",
+            "id": "roe_weapons:shield_4",
+            "durability": 500,
+            "special_effect":"undefined"
+        },
+        "Mythic Shield":
+        {
+            "name": "Mythic Shield",
+            "id": "roe_weapons:shield_5",
+            "durability": 650,
+            "special_effect":"undefined"
+        },
+        "Rune Shield":
+        {
+            "name": "Rune Shield",
+            "id": "roe_weapons:shield_6",
+            "durability": 550,
+            "special_effect":"undefined"
+        },
+        "Unique Shield":
+        {
+            "name": "Unique Shield",
+            "id": "roe_weapons:shield_7",
+            "durability": 850,
+            "special_effect":"undefined"
+        },
+        "Common Tower Shield":
+        {
+            "name": "Common Tower Shield",
+            "id": "roe_weapons:tower_shield_0",
+            "durability": 340,
+            "special_effect":"undefined"
+        },
+        "Uncommon Tower Shield":
+        {
+            "name": "Uncommon Tower Shield",
+            "id": "roe_weapons:tower_shield_1",
+            "durability": 350,
+            "special_effect":"undefined"
+        },
+        "Rare Tower Shield":
+        {
+            "name": "Rare Tower Shield",
+            "id": "roe_weapons:tower_shield_2",
+            "durability": 380,
+            "special_effect":"undefined"
+        },
+        "Epic Tower Shield":
+        {
+            "name": "Epic Tower Shield",
+            "id": "roe_weapons:tower_shield_3",
+            "durability": 420,
+            "special_effect":"undefined"
+        },
+        "Legendary Tower Shield":
+        {
+            "name": "Legendary Tower Shield",
+            "id": "roe_weapons:tower_shield_4",
+            "durability": 500,
+            "special_effect":"undefined"
+        },
+        "Mythic Tower Shield":
+        {
+            "name": "Mythic Tower Shield",
+            "id": "roe_weapons:tower_shield_5",
+            "durability": 650,
+            "special_effect":"undefined"
+        },
+        "Rune Tower Shield":
+        {
+            "name": "Rune Tower Shield",
+            "id": "roe_weapons:tower_shield_6",
+            "durability": 550,
+            "special_effect":"undefined"
+        },
+        "Unique Tower Shield":
+        {
+            "name": "Unique Tower Shield",
+            "id": "roe_weapons:tower_shield_7",
+            "durability": 850,
+            "special_effect":"undefined"
+        },
+        "Cursed Shield":
+        {
+            "name": "Cursed Shield",
+            "id": "roe_weapons:cursed_shield",
+            "durability": 850,
+            "special_effect":"undefined"
+        },
+        "Moonstone Shield":
+        {
+            "name": "Moonstone Shield",
+            "id": "blue_skies:moonstone_shield",
+            "durability":460,
+            "special_effect":"undefined"
+        },
+        "Spike Shield":
+        {
+            "name": "Spike Shield",
+            "id": "blue_skies:spike_shield",
+            "durability": 850,
+            "special_effect":"undefined"
+        },
+        "Shield Of The Deep":
+        {
+            "name": "Shield Of The Deep",
+            "id": "alexsmobs:shield_of_the_deep",
+            "durability": 400,
+            "special_effect":"undefined"
+        },
+        "Knightmetal Shield":
+        {
+            "name": "Knightmetal Shield",
+            "id": "twilightforest:knightmetal_shield",
+            "durability": 1024,
+            "special_effect":"undefined"
+        }
+    },
+    "tome":
+    {
+        "Diamond Tome":
+        {
+            "name": "Diamond Tome",
+            "id": "mmorpg:offhand/tome/diamond",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Wooden Tome":
+        {
+            "name": "Wooden Tome",
+            "id": "mmorpg:offhand/tome/wood",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Iron Tome":
+        {
+            "name": "Iron Tome",
+            "id": "mmorpg:offhand/tome/iron",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Common Tome":
+        {
+            "name": "Common Tome",
+            "id": "roe_weapons:tome_0",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Uncommon Tome":
+        {
+            "name": "Uncommon Tome",
+            "id": "roe_weapons:tome_1",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Rare Tome":
+        {
+            "name": "Rare Tome",
+            "id": "roe_weapons:tome_2",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Epic Tome":
+        {
+            "name": "Epic Tome",
+            "id": "roe_weapons:tome_3",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Legendary Tome":
+        {
+            "name": "Legendary Tome",
+            "id": "roe_weapons:tome_4",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Mythic Tome":
+        {
+            "name": "Mythic Tome",
+            "id": "roe_weapons:tome_5",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Rune Tome":
+        {
+            "name": "Rune Tome",
+            "id": "roe_weapons:tome_6",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Unique Tome":
+        {
+            "name": "Unique Tome",
+            "id": "roe_weapons:tome_7",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Order of Despair":
+        {
+            "name": "Order of Despair",
+            "id": "roe_weapons:orderofdespair",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        }
+    },
+    "totem":
+    {
+        "Diamond Totem":
+        {
+            "name": "Diamond Totem",
+            "id": "mmorpg:offhand/dodge/diamond",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Wooden Totem":
+        {
+            "name": "Wooden Totem",
+            "id": "mmorpg:offhand/dodge/wood",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Iron Totem":
+        {
+            "name": "Iron Totem",
+            "id": "mmorpg:offhand/dodge/iron",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Common Totem Bracelet":
+        {
+            "name": "Common Totem Bracelet",
+            "id": "roe_weapons:totem_0",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Uncommon Totem Bracelet":
+        {
+            "name": "Uncommon Totem Bracelet",
+            "id": "roe_weapons:totem_1",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Rare Totem Bracelet":
+        {
+            "name": "Rare Totem Bracelet",
+            "id": "roe_weapons:totem_2",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Epic Totem Bracelet":
+        {
+            "name": "Epic Totem Bracelet",
+            "id": "roe_weapons:totem_3",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Legendary Totem Bracelet":
+        {
+            "name": "Legendary Totem Bracelet",
+            "id": "roe_weapons:totem_4",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Mythic Totem Bracelet":
+        {
+            "name": "Mythic Totem Bracelet",
+            "id": "roe_weapons:totem_5",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Rune Totem Bracelet":
+        {
+            "name": "Rune Totem Bracelet",
+            "id": "roe_weapons:totem_6",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Unique Totem Bracelet":
+        {
+            "name": "Unique Totem Bracelet",
+            "id": "roe_weapons:totem_7",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Lantern of Poe":
+        {
+            "name": "Lantern of Poe",
+            "id": "roe_weapons:lantern_of_poe",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        }
+    },
+    "ring":
+    {
+        "Diamond Ring":
+        {
+            "name": "Diamond Ring",
+            "id": "mmorpg:jewelry/ring/diamond",
+            "durability": 1556,
+            "special_effect":"undefined"
+        },
+        "Golden Ring":
+        {
+            "name": "Golden Ring",
+            "id": "mmorpg:jewelry/ring/gold",
+            "durability": 724,
+            "special_effect":"undefined"
+        },
+        "Iron Ring":
+        {
+            "name": "Iron Ring",
+            "id": "mmorpg:jewelry/ring/iron",
+            "durability": 980,
+            "special_effect":"undefined"
+        },
+        "Band of Mana":
+        {
+            "name": "Band of Mana",
+            "id": "botania:mana_ring",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Greater Band of Mana":
+        {
+            "name": "Greater Band of Mana",
+            "id": "botania:mana_ring_greater",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Band of Aura":
+        {
+            "name": "Band of Aura",
+            "id": "botania:aura_ring",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Greater Band of Aura":
+        {
+            "name": "Greater Band of Aura",
+            "id": "botania:aura_ring_greater",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Ring of Chordata":
+        {
+            "name": "Ring of Chordata",
+            "id": "botania:water_ring",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Ring of Correction":
+        {
+            "name": "Ring of Correction",
+            "id": "botania:swap_ring",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Ring of Dexterous Motion":
+        {
+            "name": "Ring of Dexterous Motion",
+            "id": "botania:dodge_ring",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Ring of the Mantle":
+        {
+            "name": "Ring of the Mantle",
+            "id": "botania:mining_ring",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Ring of Far Reach":
+        {
+            "name": "Ring of Far Reach",
+            "id": "botania:reach_ring",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Ring of Thor":
+        {
+            "name": "Ring of Thor",
+            "id": "botania:thor_ring",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Ring of Odin":
+        {
+            "name": "Ring of Odin",
+            "id": "botania:odin_ring",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Ring of Loki":
+        {
+            "name": "Ring of Loki",
+            "id": "botania:loki_ring",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        }
+    },
+    "necklace":
+    {
+        "Diamond Necklace":
+        {
+            "name": "Diamond Necklace",
+            "id": "mmorpg:jewelry/necklace/diamond",
+            "durability": 2084,
+            "special_effect":"undefined"
+        },
+        "Golden Necklace":
+        {
+            "name": "Golden Necklace",
+            "id": "mmorpg:jewelry/necklace/gold",
+            "durability": 835,
+            "special_effect":"undefined"
+        },
+        "Iron Necklace":
+        {
+            "name": "Iron Necklace",
+            "id": "mmorpg:jewelry/necklace/iron",
+            "durability": 1220,
+            "special_effect":"undefined"
+        },
+        "Snowflake Pendant":
+        {
+            "name": "Snowflake Pendant",
+            "id": "botania:ice_pendant",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Pyroclast Pendant":
+        {
+            "name": "Pyroclast Pendant",
+            "id": "botania:lava_pendant",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Crimson Pendant":
+        {
+            "name": "Crimson Pendant",
+            "id": "botania:super_lava_pendant",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Cirrus Amulet":
+        {
+            "name": "Cirrus Amulet",
+            "id": "botania:cloud_pendant",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        },
+        "Nimbus Amulet":
+        {
+            "name": "Nimbus Amulet",
+            "id": "botania:super_cloud_pendant",
+            "durability":"infinite",
+            "special_effect":"undefined"
+        }
+    },
+    "sword":
+    {
+        "Iron Machete":
+        {
+            "name": "Iron Machete",
+            "id": "nethersdelight:iron_machete",
+            "durability": 250,
+            "special_effect":"undefined"
+        },
+        "Golden Machete":
+        {
+            "name": "Golden Machete",
+            "id": "nethersdelight:golden_machete",
+            "durability": 32,
+            "special_effect":"undefined"
+        },
+        "Diamond Machete":
+        {
+            "name": "Diamond Machete",
+            "id": "nethersdelight:diamond_machete",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Netherite Machete":
+        {
+            "name": "Netherite Machete",
+            "id": "nethersdelight:netherite_machete",
+            "durability": 2031,
+            "special_effect":"undefined"
+        },
+        "Wooden Sword":
+        {
+            "name": "Wooden Sword",
+            "id": "minecraft:wooden_sword",
+            "durability": 59,
+            "special_effect":"undefined"
+        },
+        "Stone Sword":
+        {
+            "name": "Stone Sword",
+            "id": "minecraft:stone_sword",
+            "durability": 131,
+            "special_effect":"undefined"
+        },
+        "Iron Sword":
+        {
+            "name": "Iron Sword",
+            "id": "minecraft:iron_sword",
+            "durability": 250,
+            "special_effect":"undefined"
+        },
+        "Golden Sword":
+        {
+            "name": "Golden Sword",
+            "id": "minecraft:golden_sword",
+            "durability": 32,
+            "special_effect":"undefined"
+        },
+        "Diamond Sword":
+        {
+            "name": "Diamond Sword",
+            "id": "minecraft:diamond_sword",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Netherite Sword":
+        {
+            "name": "Netherite Sword",
+            "id": "minecraft:netherite_sword",
+            "durability": 2031,
+            "special_effect":"undefined"
+        },
+        "Gnawing Jaw":
+        {
+            "name": "Gnawing Jaw",
+            "id": "monsterplus:gnawing_jaw",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Darkstar":
+        {
+            "name": "Darkstar",
+            "id": "monsterplus:darkstar",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Manasteel Sword":
+        {
+            "name": "Manasteel Sword",
+            "id": "botania:manasteel_sword",
+            "durability": 300,
+            "special_effect":"undefined"
+        },
+        "Starcaller":
+        {
+            "name": "Starcaller",
+            "id": "botania:star_sword",
+            "durability": 2300,
+            "special_effect":"undefined"
+        },
+        "Terrablade":
+        {
+            "name": "Terrablade",
+            "id": "botania:terra_sword",
+            "durability": 2300,
+            "special_effect":"undefined"
+        },
+        "Kobold Iron Sword":
+        {
+            "name": "Kobold Iron Sword",
+            "id": "kobolds:kobold_iron_sword",
+            "durability": 1096,
+            "special_effect":"undefined"
+        },
+        "Depth Sword":
+        {
+            "name": "Depth Sword",
+            "id": "seadwellers:depth_sword",
+            "durability": 1200,
+            "special_effect":"undefined"
+        },
+        "Cloggrum Sword":
+        {
+            "name": "Cloggrum Sword",
+            "id": "undergarden:cloggrum_sword",
+            "durability": 286,
+            "special_effect":"undefined"
+        },
+        "Froststeel Sword":
+        {
+            "name": "Froststeel Sword",
+            "id": "undergarden:froststeel_sword",
+            "durability": 575,
+            "special_effect":"undefined"
+        },
+        "Utherium Sword":
+        {
+            "name": "Utherium Sword",
+            "id": "undergarden:utherium_sword",
+            "durability": 1279,
+            "special_effect":"undefined"
+        },
+        "Forgotten Sword":
+        {
+            "name": "Forgotten Sword",
+            "id": "undergarden:forgotten_sword",
+            "durability": 1876,
+            "special_effect":"undefined"
+        },
+        "Tungsten Sword":
+        {
+            "name": "Tungsten Sword",
+            "id": "stalwart_dungeons:tungsten_sword",
+            "durability": 750,
+            "special_effect":"undefined"
+        },
+        "Chorundum Sword":
+        {
+            "name": "Chorundum Sword",
+            "id": "stalwart_dungeons:chorundum_sword",
+            "durability": 2021,
+            "special_effect":"undefined"
+        },
+        "Common Sword":
+        {
+            "name": "Common Sword",
+            "id": "roe_weapons:sword_0",
+            "durability": 312,
+            "special_effect":"undefined"
+        },
+        "Uncommon Sword":
+        {
+            "name": "Uncommon Sword",
+            "id": "roe_weapons:sword_1",
+            "durability": 624,
+            "special_effect":"undefined"
+        },
+        "Rare Sword":
+        {
+            "name": "Rare Sword",
+            "id": "roe_weapons:sword_2",
+            "durability": 936,
+            "special_effect":"undefined"
+        },
+        "Epic Sword":
+        {
+            "name": "Epic Sword",
+            "id": "roe_weapons:sword_3",
+            "durability": 1248,
+            "special_effect":"undefined"
+        },
+        "Legendary Sword":
+        {
+            "name": "Legendary Sword",
+            "id": "roe_weapons:sword_4",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Mythic Sword":
+        {
+            "name": "Mythic Sword",
+            "id": "roe_weapons:sword_5",
+            "durability": 1872,
+            "special_effect":"undefined"
+        },
+        "Rune Sword":
+        {
+            "name": "Rune Sword",
+            "id": "roe_weapons:sword_6",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Unique Sword":
+        {
+            "name": "Unique Sword",
+            "id": "roe_weapons:sword_7",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Common Rapier":
+        {
+            "name": "Common Rapier",
+            "id": "roe_weapons:rapier_0",
+            "durability": 312,
+            "special_effect":"undefined"
+        },
+        "Uncommon Rapier":
+        {
+            "name": "Uncommon Rapier",
+            "id": "roe_weapons:rapier_1",
+            "durability": 624,
+            "special_effect":"undefined"
+        },
+        "Rare Rapier":
+        {
+            "name": "Rare Rapier",
+            "id": "roe_weapons:rapier_2",
+            "durability": 936,
+            "special_effect":"undefined"
+        },
+        "Epic Rapier":
+        {
+            "name": "Epic Rapier",
+            "id": "roe_weapons:rapier_3",
+            "durability": 1248,
+            "special_effect":"undefined"
+        },
+        "Legendary Rapier":
+        {
+            "name": "Legendary Rapier",
+            "id": "roe_weapons:rapier_4",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Mythic Rapier":
+        {
+            "name": "Mythic Rapier",
+            "id": "roe_weapons:rapier_5",
+            "durability": 1872,
+            "special_effect":"undefined"
+        },
+        "Rune Rapier":
+        {
+            "name": "Rune Rapier",
+            "id": "roe_weapons:rapier_6",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Unique Rapier":
+        {
+            "name": "Unique Rapier",
+            "id": "roe_weapons:rapier_7",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Cursed Sword":
+        {
+            "name": "Cursed Sword",
+            "id": "roe_weapons:cursed_sword",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Mastersword":
+        {
+            "name": "Mastersword",
+            "id": "roe_weapons:mastersword",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Neptunium Sword":
+        {
+            "name": "Neptunium Sword",
+            "id": "aquaculture:neptunium_sword",
+            "durability": 1796,
+            "special_effect":"undefined"
+        },
+        "Terrible Sword":
+        {
+            "name": "Terrible Sword",
+            "id": "aquamirae:terrible_sword",
+            "durability": 750,
+            "special_effect":"undefined"
+        },
+        "Fin Cutter":
+        {
+            "name": "Fin Cutter",
+            "id": "aquamirae:fin_cutter",
+            "durability": 1000,
+            "special_effect":"undefined"
+        },
+        "Divider":
+        {
+            "name": "Divider",
+            "id": "aquamirae:divider",
+            "durability": 2200,
+            "special_effect":"undefined"
+        },
+        "Remnant's Saber":
+        {
+            "name": "Remnant's Saber",
+            "id": "aquamirae:remnants_saber",
+            "durability": 100,
+            "special_effect":"undefined"
+        },
+        "Bluebright Wood Sword":
+        {
+            "name": "Bluebright Wood Sword",
+            "id": "blue_skies:bluebright_sword",
+            "durability": 59,
+            "special_effect":"undefined"
+        },
+        "Starlit Wood Sword":
+        {
+            "name": "Starlit Wood Sword",
+            "id": "blue_skies:starlit_sword",
+            "durability": 59,
+            "special_effect":"undefined"
+        },
+        "Frostbright Wood Sword":
+        {
+            "name": "Frostbright Wood Sword",
+            "id": "blue_skies:frostbright_sword",
+            "durability": 59,
+            "special_effect":"undefined"
+        },
+        "Lunar Wood Sword":
+        {
+            "name": "Lunar Wood Sword",
+            "id": "blue_skies:lunar_sword",
+            "durability": 59,
+            "special_effect":"undefined"
+        },
+        "Dusk Wood Sword":
+        {
+            "name": "Dusk Wood Sword",
+            "id": "blue_skies:dusk_sword",
+            "durability": 59,
+            "special_effect":"undefined"
+        },
+        "Maple Wood Sword":
+        {
+            "name": "Maple Wood Sword",
+            "id": "blue_skies:maple_sword",
+            "durability": 59,
+            "special_effect":"undefined"
+        },
+        "Comet Wood Sword":
+        {
+            "name": "Comet Wood Sword",
+            "id": "blue_skies:comet_sword",
+            "durability": 100,
+            "special_effect":"undefined"
+        },
+        "Turquoise Stone Sword":
+        {
+            "name": "Turquoise Stone Sword",
+            "id": "blue_skies:turquoise_stone_sword",
+            "durability": 131,
+            "special_effect":"undefined"
+        },
+        "Lunar Stone Sword":
+        {
+            "name": "Lunar Stone Sword",
+            "id": "blue_skies:lunar_stone_sword",
+            "durability": 131,
+            "special_effect":"undefined"
+        },
+        "Pyrope Sword":
+        {
+            "name": "Pyrope Sword",
+            "id": "blue_skies:pyrope_sword",
+            "durability": 200,
+            "special_effect":"undefined"
+        },
+        "Aquite Sword":
+        {
+            "name": "Aquite Sword",
+            "id": "blue_skies:aquite_sword",
+            "durability": 270,
+            "special_effect":"undefined"
+        },
+        "Diopside Sword":
+        {
+            "name": "Diopside Sword",
+            "id": "blue_skies:diopside_sword",
+            "durability": 1661,
+            "special_effect":"undefined"
+        },
+        "Charoite Sword":
+        {
+            "name": "Charoite Sword",
+            "id": "blue_skies:charoite_sword",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Horizonite Sword":
+        {
+            "name": "Horizonite Sword",
+            "id": "blue_skies:horizonite_sword",
+            "durability": 250,
+            "special_effect":"undefined"
+        },
+        "Different Sword":
+        {
+            "name": "Different Sword",
+            "id": "blue_skies:different_sword",
+            "durability": 1000,
+            "special_effect":"undefined"
+        },
+        "Skelewag Skull":
+        {
+            "name": "Skelewag Skull",
+            "id": "alexsmobs:skelewag_sword",
+            "durability": 430,
+            "special_effect":"undefined"
+        },
+        "Tendon Whip":
+        {
+            "name": "Tendon Whip",
+            "id": "alexsmobs:tendon_whip",
+            "durability": 450,
+            "special_effect":"undefined"
+        },
+        "Ironwood Sword":
+        {
+            "name": "Ironwood Sword",
+            "id": "twilightforest:ironwood_sword",
+            "durability": 512,
+            "special_effect":"undefined"
+        },
+        "Steeleaf Sword":
+        {
+            "name": "Steeleaf Sword",
+            "id": "twilightforest:steeleaf_sword",
+            "durability": 131,
+            "special_effect":"undefined"
+        },
+        "Knightmetal Sword":
+        {
+            "name": "Knightmetal Sword",
+            "id": "twilightforest:knightmetal_sword",
+            "durability": 512,
+            "special_effect":"undefined"
+        },
+        "Fiery Sword":
+        {
+            "name": "Fiery Sword",
+            "id": "twilightforest:fiery_sword",
+            "durability": 1024,
+            "special_effect":"undefined"
+        },
+        "Ice Sword":
+        {
+            "name": "Ice Sword",
+            "id": "twilightforest:ice_sword",
+            "durability": 32,
+            "special_effect":"undefined"
+        },
+        "Giant's Sword":
+        {
+            "name": "Giant's Sword",
+            "id": "twilightforest:giant_sword",
+            "durability": 1024,
+            "special_effect":"undefined"
+        },
+        "Glass Sword":
+        {
+            "name": "Glass Sword",
+            "id": "twilightforest:glass_sword",
+            "durability": 1,
+            "special_effect":"undefined"
+        },
+        "Brute Tusk Knife":
+        {
+            "name": "Brute Tusk Knife",
+            "id": "undergardendelight:brute_tusk_knife",
+            "durability": 96,
+            "special_effect":"undefined"
+        },
+        "Resonarium Sword":
+        {
+            "name": "Resonarium Sword",
+            "id": "deeperdarker:resonarium_sword",
+            "durability": 1193,
+            "special_effect":"undefined"
+        },
+        "Warden Sword":
+        {
+            "name": "Warden Sword",
+            "id": "deeperdarker:warden_sword",
+            "durability": 2519,
+            "special_effect":"undefined"
+        },
+        "Icy Sweetness":
+        {
+            "name": "Icy Sweetness",
+            "id": "born_in_chaos_v1:icy_sweetness",
+            "durability": 2000,
+            "special_effect":"undefined"
+        },
+        "Soul Saber":
+        {
+            "name": "Soul Saber",
+            "id": "born_in_chaos_v1:soul_cutlass",
+            "durability": 700,
+            "special_effect":"undefined"
+        },
+        "Spirit Divider":
+        {
+            "name": "Spirit Divider",
+            "id": "born_in_chaos_v1:spiritual_sword",
+            "durability": 500,
+            "special_effect":"undefined"
+        },
+        "Sharpened Dark Metal Sword":
+        {
+            "name": "Sharpened Dark Metal Sword",
+            "id": "born_in_chaos_v1:sharpened_dark_metal_sword",
+            "durability": 1100,
+            "special_effect":"undefined"
+        },
+        "Frostbitten Blade":
+        {
+            "name": "Frostbitten Blade",
+            "id": "born_in_chaos_v1:frostbitten_blade",
+            "durability": 1100,
+            "special_effect":"undefined"
+        },
+        "Soulbane":
+        {
+            "name": "Soulbane",
+            "id": "born_in_chaos_v1:soulbane",
+            "durability": 3000,
+            "special_effect":"undefined"
+        },
+        "Sweet Sword":
+        {
+            "name": "Sweet Sword",
+            "id": "born_in_chaos_v1:sweet_sword",
+            "durability": 600,
+            "special_effect":"undefined"
+        },
+        "Nut Hummer":
+        {
+            "name": "Nut Hummer",
+            "id": "born_in_chaos_v1:nut_hammer",
+            "durability": 250,
+            "special_effect":"undefined"
+        },
+        "Birch Branches":
+        {
+            "name": "Birch Branches",
+            "id": "born_in_chaos_v1:birch_branches",
+            "durability": 300,
+            "special_effect":"undefined"
+        }
+    },
+    "dagger":
+    {
+        "Soulscribe":
+        {
+            "name": "Soulscribe",
+            "id": "botania:ender_dagger",
+            "durability": 69,
+            "special_effect":"undefined"
+        },
+        "Sinker Dagger":
+        {
+            "name": "Sinker Dagger",
+            "id": "outer_end:sinker_dagger",
+            "durability": 250,
+            "special_effect":"undefined"
+        },
+        "Awful Dagger":
+        {
+            "name": "Awful Dagger",
+            "id": "stalwart_dungeons:awful_dagger",
+            "durability": 1650,
+            "special_effect":"undefined"
+        },
+        "Neptunium Knife":
+        {
+            "name": "Neptunium Knife",
+            "id": "aquaculturedelight:neptunium_knife",
+            "durability": 4000,
+            "special_effect":"undefined"
+        },
+        "Common Dagger":
+        {
+            "name": "Common Dagger",
+            "id": "roe_weapons:dagger_0",
+            "durability": 312,
+            "special_effect":"undefined"
+        },
+        "Uncommon Dagger":
+        {
+            "name": "Uncommon Dagger",
+            "id": "roe_weapons:dagger_1",
+            "durability": 624,
+            "special_effect":"undefined"
+        },
+        "Rare Dagger":
+        {
+            "name": "Rare Dagger",
+            "id": "roe_weapons:dagger_2",
+            "durability": 936,
+            "special_effect":"undefined"
+        },
+        "Epic Dagger":
+        {
+            "name": "Epic Dagger",
+            "id": "roe_weapons:dagger_3",
+            "durability": 1248,
+            "special_effect":"undefined"
+        },
+        "Legendary Dagger":
+        {
+            "name": "Legendary Dagger",
+            "id": "roe_weapons:dagger_4",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Mythic Dagger":
+        {
+            "name": "Mythic Dagger",
+            "id": "roe_weapons:dagger_5",
+            "durability": 1872,
+            "special_effect":"undefined"
+        },
+        "Rune Dagger":
+        {
+            "name": "Rune Dagger",
+            "id": "roe_weapons:dagger_6",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Unique Dagger":
+        {
+            "name": "Unique Dagger",
+            "id": "roe_weapons:dagger_7",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Common Kunai":
+        {
+            "name": "Common Kunai",
+            "id": "roe_weapons:kunai_0",
+            "durability": 312,
+            "special_effect":"undefined"
+        },
+        "Uncommon Kunai":
+        {
+            "name": "Uncommon Kunai",
+            "id": "roe_weapons:kunai_1",
+            "durability": 624,
+            "special_effect":"undefined"
+        },
+        "Rare Kunai":
+        {
+            "name": "Rare Kunai",
+            "id": "roe_weapons:kunai_2",
+            "durability": 936,
+            "special_effect":"undefined"
+        },
+        "Epic Kunai":
+        {
+            "name": "Epic Kunai",
+            "id": "roe_weapons:kunai_3",
+            "durability": 1248,
+            "special_effect":"undefined"
+        },
+        "Legendary Kunai":
+        {
+            "name": "Legendary Kunai",
+            "id": "roe_weapons:kunai_4",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Mythic Kunai":
+        {
+            "name": "Mythic Kunai",
+            "id": "roe_weapons:kunai_5",
+            "durability": 1872,
+            "special_effect":"undefined"
+        },
+        "Rune Kunai":
+        {
+            "name": "Rune Kunai",
+            "id": "roe_weapons:kunai_6",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Unique Kunai":
+        {
+            "name": "Unique Kunai",
+            "id": "roe_weapons:kunai_7",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Cursed Dagger":
+        {
+            "name": "Cursed Dagger",
+            "id": "roe_weapons:cursed_dagger",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Naga Fang Dagger":
+        {
+            "name": "Naga Fang Dagger",
+            "id": "mowziesmobs:naga_fang_dagger",
+            "durability": 131,
+            "special_effect":"undefined"
+        },
+        "Wooden Fillet Knife":
+        {
+            "name": "Wooden Fillet Knife",
+            "id": "aquaculture:wooden_fillet_knife",
+            "durability": 44,
+            "special_effect":"undefined"
+        },
+        "Stone Fillet Knife":
+        {
+            "name": "Stone Fillet Knife",
+            "id": "aquaculture:stone_fillet_knife",
+            "durability": 98,
+            "special_effect":"undefined"
+        },
+        "Iron Fillet Knife":
+        {
+            "name": "Iron Fillet Knife",
+            "id": "aquaculture:iron_fillet_knife",
+            "durability": 187,
+            "special_effect":"undefined"
+        },
+        "Golden Fillet Knife":
+        {
+            "name": "Golden Fillet Knife",
+            "id": "aquaculture:golden_fillet_knife",
+            "durability": 24,
+            "special_effect":"undefined"
+        },
+        "Diamond Fillet Knife":
+        {
+            "name": "Diamond Fillet Knife",
+            "id": "aquaculture:diamond_fillet_knife",
+            "durability": 1170,
+            "special_effect":"undefined"
+        },
+        "Neptunium Fillet Knife":
+        {
+            "name": "Neptunium Fillet Knife",
+            "id": "aquaculture:neptunium_fillet_knife",
+            "durability": "infinite",
+            "special_effect":"undefined"
+        },
+        "Dagger of Greed":
+        {
+            "name": "Dagger of Greed",
+            "id": "aquamirae:dagger_of_greed",
+            "durability": 100,
+            "special_effect":"undefined"
+        },
+        "Soulcursed Skewer Dagger":
+        {
+            "name": "Soulcursed Skewer Dagger",
+            "id": "cte2modpackarmors:soulcursed_skewer_dagger",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Venom Tears Dagger":
+        {
+            "name": "Venom Tears Dagger",
+            "id": "cte2modpackarmors:venom_tears_dagger",
+            "durability": 100,
+            "special_effect":"undefined"
+        },
+        "Cloggrum Knife":
+        {
+            "name": "Cloggrum Knife",
+            "id": "undergardendelight:cloggrum_knife",
+            "durability": 286,
+            "special_effect":"undefined"
+        },
+        "Froststeel Knife":
+        {
+            "name": "Froststeel Knife",
+            "id": "undergardendelight:frosteel_knife",
+            "durability": 575,
+            "special_effect":"undefined"
+        },
+        "Utherium Knife":
+        {
+            "name": "Utherium Knife",
+            "id": "undergardendelight:utherium_knife",
+            "durability": 1279,
+            "special_effect":"undefined"
+        },
+        "Forgotten Knife":
+        {
+            "name": "Forgotten Knife",
+            "id": "undergardendelight:forgotten_knife",
+            "durability": 1876,
+            "special_effect":"undefined"
+        },
+        "Flint Knife":
+        {
+            "name": "Flint Knife",
+            "id": "farmersdelight:flint_knife",
+            "durability": 131,
+            "special_effect":"undefined"
+        },
+        "Iron Knife":
+        {
+            "name": "Iron Knife",
+            "id": "farmersdelight:iron_knife",
+            "durability": 250,
+            "special_effect":"undefined"
+        },
+        "Golden Knife":
+        {
+            "name": "Golden Knife",
+            "id": "farmersdelight:golden_knife",
+            "durability": 32,
+            "special_effect":"undefined"
+        },
+        "Diamond Knife":
+        {
+            "name": "Diamond Knife",
+            "id": "farmersdelight:diamond_knife",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Netherite Knife":
+        {
+            "name": "Netherite Knife",
+            "id": "farmersdelight:netherite_knife",
+            "durability": 2031,
+            "special_effect":"undefined"
+        },
+        "Dark Ritual Dagger":
+        {
+            "name": "Dark Ritual Dagger",
+            "id": "born_in_chaos_v1:dark_ritual_dagger",
+            "durability": 700,
+            "special_effect":"undefined"
+        },
+        "Intoxicating Dagger":
+        {
+            "name": "Intoxicating Dagger",
+            "id": "born_in_chaos_v1:intoxicating_dagger",
+            "durability": 1100,
+            "special_effect":"undefined"
+        }
+    },
+    "axe":
+    {
+        "Wooden Axe":
+        {
+            "name": "Wooden Axe",
+            "id": "minecraft:wooden_axe",
+            "durability": 59,
+            "special_effect":"undefined"
+        },
+        "Stone Axe":
+        {
+            "name": "Stone Axe",
+            "id": "minecraft:stone_axe",
+            "durability": 131,
+            "special_effect":"undefined"
+        },
+        "Iron Axe":
+        {
+            "name": "Iron Axe",
+            "id": "minecraft:iron_axe",
+            "durability": 250,
+            "special_effect":"undefined"
+        },
+        "Golden Axe":
+        {
+            "name": "Golden Axe",
+            "id": "minecraft:golden_axe",
+            "durability": 32,
+            "special_effect":"undefined"
+        },
+        "Diamond Axe":
+        {
+            "name": "Diamond Axe",
+            "id": "minecraft:diamond_axe",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Netherite Axe":
+        {
+            "name": "Netherite Axe",
+            "id": "minecraft:netherite_axe",
+            "durability": 2031,
+            "special_effect":"undefined"
+        },
+        "Manasteel Axe":
+        {
+            "name": "Manasteel Axe",
+            "id": "botania:manasteel_axe",
+            "durability": 300,
+            "special_effect":"undefined"
+        },
+        "Elementium Axe":
+        {
+            "name": "Elementium Axe",
+            "id": "botania:elementium_axe",
+            "durability": 720,
+            "special_effect":"undefined"
+        },
+        "Terra Truncator":
+        {
+            "name": "Terra Truncator",
+            "id": "botania:terra_axe",
+            "durability": 2300,
+            "special_effect":"undefined"
+        },
+        "Kobold Iron Axe":
+        {
+            "name": "Kobold Iron Axe",
+            "id": "kobolds:kobold_iron_axe",
+            "durability": 1096,
+            "special_effect":"undefined"
+        },
+        "Platinum Infused Hatchet":
+        {
+            "name": "Platinum Infused Hatchet",
+            "id": "illagerinvasion:platinum_infused_hatchet",
+            "durability": 327,
+            "special_effect":"undefined"
+        },
+        "Depth Axe":
+        {
+            "name": "Depth Axe",
+            "id": "seadwellers:depth_axe",
+            "durability": 1200,
+            "special_effect":"undefined"
+        },
+        "Cloggrum Battleaxe":
+        {
+            "name": "Cloggrum Battleaxe",
+            "id": "undergarden:cloggrum_battleaxe",
+            "durability": 858,
+            "special_effect":"undefined"
+        },
+        "Cloggrum Axe":
+        {
+            "name": "Cloggrum Axe",
+            "id": "undergarden:cloggrum_axe",
+            "durability": 286,
+            "special_effect":"undefined"
+        },
+        "Froststeel Axe":
+        {
+            "name": "Froststeel Axe",
+            "id": "undergarden:froststeel_axe",
+            "durability": 575,
+            "special_effect":"undefined"
+        },
+        "Utherium Axe":
+        {
+            "name": "Utherium Axe",
+            "id": "undergarden:utherium_axe",
+            "durability": 1279,
+            "special_effect":"undefined"
+        },
+        "Forgotten Battleaxe":
+        {
+            "name": "Forgotten Battleaxe",
+            "id": "undergarden:forgotten_battleaxe",
+            "durability": 5628,
+            "special_effect":"undefined"
+        },
+        "Forgotten Axe":
+        {
+            "name": "Forgotten Axe",
+            "id": "undergarden:forgotten_axe",
+            "durability": 1876,
+            "special_effect":"undefined"
+        },
+        "Tungsten Axe":
+        {
+            "name": "Tungsten Axe",
+            "id": "stalwart_dungeons:tungsten_axe",
+            "durability": 750,
+            "special_effect":"undefined"
+        },
+        "Chorundum Axe":
+        {
+            "name": "Chorundum Axe",
+            "id": "stalwart_dungeons:chorundum_axe",
+            "durability": 2021,
+            "special_effect":"undefined"
+        },
+        "Common Axe":
+        {
+            "name": "Common Axe",
+            "id": "roe_weapons:axe_0",
+            "durability": 312,
+            "special_effect":"undefined"
+        },
+        "Uncommon Axe":
+        {
+            "name": "Uncommon Axe",
+            "id": "roe_weapons:axe_1",
+            "durability": 624,
+            "special_effect":"undefined"
+        },
+        "Rare Axe":
+        {
+            "name": "Rare Axe",
+            "id": "roe_weapons:axe_2",
+            "durability": 936,
+            "special_effect":"undefined"
+        },
+        "Epic Axe":
+        {
+            "name": "Epic Axe",
+            "id": "roe_weapons:axe_3",
+            "durability": 1248,
+            "special_effect":"undefined"
+        },
+        "Legendary Axe":
+        {
+            "name": "Legendary Axe",
+            "id": "roe_weapons:axe_4",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Mythic Axe":
+        {
+            "name": "Mythic Axe",
+            "id": "roe_weapons:axe_5",
+            "durability": 1872,
+            "special_effect":"undefined"
+        },
+        "Rune Axe":
+        {
+            "name": "Rune Axe",
+            "id": "roe_weapons:axe_6",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Unique Axe":
+        {
+            "name": "Unique Axe",
+            "id": "roe_weapons:axe_7",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Cursed Axe":
+        {
+            "name": "Cursed Axe",
+            "id": "roe_weapons:cursed_axe",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Axe of a Thousand Metals":
+        {
+            "name": "Axe of a Thousand Metals",
+            "id": "mowziesmobs:wrought_axe",
+            "durability": 250,
+            "special_effect":"undefined"
+        },
+        "Neptunium Axe":
+        {
+            "name": "Neptunium Axe",
+            "id": "aquaculture:neptunium_axe",
+            "durability": 1796,
+            "special_effect":"undefined"
+        },
+        "Bluebright Wood Axe":
+        {
+            "name": "Bluebright Wood Axe",
+            "id": "blue_skies:bluebright_axe",
+            "durability": 59,
+            "special_effect":"undefined"
+        },
+        "Starlit Wood Axe":
+        {
+            "name": "Starlit Wood Axe",
+            "id": "blue_skies:starlit_axe",
+            "durability": 59,
+            "special_effect":"undefined"
+        },
+        "Frostbright Wood Axe":
+        {
+            "name": "Frostbright Wood Axe",
+            "id": "blue_skies:frostbright_axe",
+            "durability": 59,
+            "special_effect":"undefined"
+        },
+        "Lunar Wood Axe":
+        {
+            "name": "Lunar Wood Axe",
+            "id": "blue_skies:lunar_axe",
+            "durability": 59,
+            "special_effect":"undefined"
+        },
+        "Dusk Wood Axe":
+        {
+            "name": "Dusk Wood Axe",
+            "id": "blue_skies:dusk_axe",
+            "durability": 59,
+            "special_effect":"undefined"
+        },
+        "Maple Wood Axe":
+        {
+            "name": "Maple Wood Axe",
+            "id": "blue_skies:maple_axe",
+            "durability": 59,
+            "special_effect":"undefined"
+        },
+        "Comet Wood Axe":
+        {
+            "name": "Comet Wood Axe",
+            "id": "blue_skies:comet_axe",
+            "durability": 100,
+            "special_effect":"undefined"
+        },
+        "Turquoise Stone Axe":
+        {
+            "name": "Turquoise Stone Axe",
+            "id": "blue_skies:turquoise_stone_axe",
+            "durability": 131,
+            "special_effect":"undefined"
+        },
+        "Lunar Stone Axe":
+        {
+            "name": "Lunar Stone Axe",
+            "id": "blue_skies:lunar_stone_axe",
+            "durability": 131,
+            "special_effect":"undefined"
+        },
+        "Pyrope Axe":
+        {
+            "name": "Pyrope Axe",
+            "id": "blue_skies:pyrope_axe",
+            "durability": 200,
+            "special_effect":"undefined"
+        },
+        "Aquite Axe":
+        {
+            "name": "Aquite Axe",
+            "id": "blue_skies:aquite_axe",
+            "durability": 270,
+            "special_effect":"undefined"
+        },
+        "Diopside Axe":
+        {
+            "name": "Diopside Axe",
+            "id": "blue_skies:diopside_axe",
+            "durability": 1661,
+            "special_effect":"undefined"
+        },
+        "Charoite Axe":
+        {
+            "name": "Charoite Axe",
+            "id": "blue_skies:charoite_axe",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Horizonite Axe":
+        {
+            "name": "Horizonite Axe",
+            "id": "blue_skies:horizonite_axe",
+            "durability": 250,
+            "special_effect":"undefined"
+        },
+        "Ironwood Axe":
+        {
+            "name": "Ironwood Axe",
+            "id": "twilightforest:ironwood_axe",
+            "durability": 512,
+            "special_effect":"undefined"
+        },
+        "Steeleaf Axe":
+        {
+            "name": "Steeleaf Axe",
+            "id": "twilightforest:steeleaf_axe",
+            "durability": 131,
+            "special_effect":"undefined"
+        },
+        "Knightmetal Axe":
+        {
+            "name": "Knightmetal Axe",
+            "id": "twilightforest:knightmetal_axe",
+            "durability": 512,
+            "special_effect":"undefined"
+        },
+        "Golden Minotaur Axe":
+        {
+            "name": "Golden Minotaur Axe",
+            "id": "twilightforest:gold_minotaur_axe",
+            "durability": 32,
+            "special_effect":"undefined"
+        },
+        "Diamond Minotaur Axe":
+        {
+            "name": "Diamond Minotaur Axe",
+            "id": "twilightforest:diamond_minotaur_axe",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Resonarium Axe":
+        {
+            "name": "Resonarium Axe",
+            "id": "deeperdarker:resonarium_axe",
+            "durability": 1193,
+            "special_effect":"undefined"
+        },
+        "Warden Axe":
+        {
+            "name": "Warden Axe",
+            "id": "deeperdarker:warden_axe",
+            "durability": 2519,
+            "special_effect":"undefined"
+        },
+        "Great Reaper Axe":
+        {
+            "name": "Great Reaper Axe",
+            "id": "born_in_chaos_v1:great_reaper_axe",
+            "durability": 1100,
+            "special_effect":"undefined"
+        },
+        "Sweet Axe":
+        {
+            "name": "Sweet Axe",
+            "id": "born_in_chaos_v1:sweet_axe",
+            "durability": 600,
+            "special_effect":"undefined"
+        },
+        "Wood Splitter":
+        {
+            "name": "Wood Splitter",
+            "id": "born_in_chaos_v1:wood_splitter_axe",
+            "durability": 270,
+            "special_effect":"undefined"
+        }
+    },
+    "hammer":
+    {
+        "Wooden Hammer":
+        {
+            "name": "Wooden Hammer",
+            "id": "stalwart_dungeons:wooden_hammer",
+            "durability": 60,
+            "special_effect":"undefined"
+        },
+        "Stone Hammer":
+        {
+            "name": "Stone Hammer",
+            "id": "stalwart_dungeons:stone_hammer",
+            "durability": 131,
+            "special_effect":"undefined"
+        },
+        "Iron Hammer":
+        {
+            "name": "Iron Hammer",
+            "id": "stalwart_dungeons:iron_hammer",
+            "durability": 250,
+            "special_effect":"undefined"
+        },
+        "Golden Hammer":
+        {
+            "name": "Golden Hammer",
+            "id": "stalwart_dungeons:golden_hammer",
+            "durability": 32,
+            "special_effect":"undefined"
+        },
+        "Diamond Hammer":
+        {
+            "name": "Diamond Hammer",
+            "id": "stalwart_dungeons:diamond_hammer",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Netherite Hammer":
+        {
+            "name": "Netherite Hammer",
+            "id": "stalwart_dungeons:netherite_hammer",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Tungsten Hammer":
+        {
+            "name": "Tungsten Hammer",
+            "id": "stalwart_dungeons:tungsten_hammer",
+            "durability": 750,
+            "special_effect":"undefined"
+        },
+        "Nether Hammer":
+        {
+            "name": "Nether Hammer",
+            "id": "stalwart_dungeons:nether_hammer",
+            "durability": 2250,
+            "special_effect":"undefined"
+        },
+        "Common Hammer":
+        {
+            "name": "Common Hammer",
+            "id": "roe_weapons:hammer_0",
+            "durability": 312,
+            "special_effect":"undefined"
+        },
+        "Uncommon Hammer":
+        {
+            "name": "Uncommon Hammer",
+            "id": "roe_weapons:hammer_1",
+            "durability": 624,
+            "special_effect":"undefined"
+        },
+        "Rare Hammer":
+        {
+            "name": "Rare Hammer",
+            "id": "roe_weapons:hammer_2",
+            "durability": 936,
+            "special_effect":"undefined"
+        },
+        "Epic Hammer":
+        {
+            "name": "Epic Hammer",
+            "id": "roe_weapons:hammer_3",
+            "durability": 1248,
+            "special_effect":"undefined"
+        },
+        "Legendary Hammer":
+        {
+            "name": "Legendary Hammer",
+            "id": "roe_weapons:hammer_4",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Mythic Hammer":
+        {
+            "name": "Mythic Hammer",
+            "id": "roe_weapons:hammer_5",
+            "durability": 1872,
+            "special_effect":"undefined"
+        },
+        "Rune Hammer":
+        {
+            "name": "Rune Hammer",
+            "id": "roe_weapons:hammer_6",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Unique Hammer":
+        {
+            "name": "Unique Hammer",
+            "id": "roe_weapons:hammer_7",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Common Mace":
+        {
+            "name": "Common Mace",
+            "id": "roe_weapons:mace_0",
+            "durability": 312,
+            "special_effect":"undefined"
+        },
+        "Uncommon Mace":
+        {
+            "name": "Uncommon Mace",
+            "id": "roe_weapons:mace_1",
+            "durability": 624,
+            "special_effect":"undefined"
+        },
+        "Rare Mace":
+        {
+            "name": "Rare Mace",
+            "id": "roe_weapons:mace_2",
+            "durability": 936,
+            "special_effect":"undefined"
+        },
+        "Epic Mace":
+        {
+            "name": "Epic Mace",
+            "id": "roe_weapons:mace_3",
+            "durability": 1248,
+            "special_effect":"undefined"
+        },
+        "Legendary Mace":
+        {
+            "name": "Legendary Mace",
+            "id": "roe_weapons:mace_4",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Mythic Mace":
+        {
+            "name": "Mythic Mace",
+            "id": "roe_weapons:mace_5",
+            "durability": 1872,
+            "special_effect":"undefined"
+        },
+        "Rune Mace":
+        {
+            "name": "Rune Mace",
+            "id": "roe_weapons:mace_6",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Unique Mace":
+        {
+            "name": "Unique Mace",
+            "id": "roe_weapons:mace_7",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Cursed Hammer":
+        {
+            "name": "Cursed Hammer",
+            "id": "roe_weapons:cursed_hammer",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Wirt's Leg":
+        {
+            "name": "Wirt's Leg",
+            "id": "roe_weapons:wirtsleg",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Crushing Hammer":
+        {
+            "name": "Crushing Hammer",
+            "id": "blue_skies:crushing_hammer",
+            "durability": 250,
+            "special_effect":"undefined"
+        },
+        "Skullbreaker Hammer":
+        {
+            "name": "Skullbreaker Hammer",
+            "id": "born_in_chaos_v1:skullbreaker_hammer",
+            "durability": 1700,
+            "special_effect":"undefined"
+        },
+        "Shell Mace":
+        {
+            "name": "Shell Mace",
+            "id": "born_in_chaos_v1:shell_mace",
+            "durability": 400,
+            "special_effect":"undefined"
+        },
+        "Monster Flesh":
+        {
+            "name": "Monster Flesh",
+            "id": "born_in_chaos_v1:monster_flesh",
+            "durability": "infinite",
+            "special_effect":"undefined"
+        },
+        "Smoked Monster Flesh":
+        {
+            "name": "Smoked Monster Flesh",
+            "id": "born_in_chaos_v1:smoked_monster_flesh",
+            "durability": "infinite",
+            "special_effect":"undefined"
+        }
+    },
+    "staff":
+    {
+        "Diamond Staff":
+        {
+            "name": "Diamond Staff",
+            "id": "mmorpg:weapon/staff/diamond",
+            "durability": 1811,
+            "special_effect":"undefined"
+        },
+        "Iron Staff":
+        {
+            "name": "Iron Staff",
+            "id": "mmorpg:weapon/staff/iron",
+            "durability": 500,
+            "special_effect":"undefined"
+        },
+        "Wooden Staff":
+        {
+            "name": "Wooden Staff",
+            "id": "mmorpg:weapon/staff/wood",
+            "durability": 309,
+            "special_effect":"undefined"
+        },
+        "Desolating Light Staff":
+        {
+            "name": "Desolating Light Staff",
+            "id": "cte2modpackarmors:desolating_light_staff",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Sinful Light Staff":
+        {
+            "name": "Sinful Light Staff",
+            "id": "cte2modpackarmors:sinful_lights_staff",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Common Staff":
+        {
+            "name": "Common Staff",
+            "id": "roe_weapons:staff_0",
+            "durability": 312,
+            "special_effect":"undefined"
+        },
+        "Uncommon Staff":
+        {
+            "name": "Uncommon Staff",
+            "id": "roe_weapons:staff_1",
+            "durability": 624,
+            "special_effect":"undefined"
+        },
+        "Rare Staff":
+        {
+            "name": "Rare Staff",
+            "id": "roe_weapons:staff_2",
+            "durability": 936,
+            "special_effect":"undefined"
+        },
+        "Epic Staff":
+        {
+            "name": "Epic Staff",
+            "id": "roe_weapons:staff_3",
+            "durability": 1248,
+            "special_effect":"undefined"
+        },
+        "Legendary Staff":
+        {
+            "name": "Legendary Staff",
+            "id": "roe_weapons:staff_4",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Mythic Staff":
+        {
+            "name": "Mythic Staff",
+            "id": "roe_weapons:staff_5",
+            "durability": 1872,
+            "special_effect":"undefined"
+        },
+        "Rune Staff":
+        {
+            "name": "Rune Staff",
+            "id": "roe_weapons:staff_6",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Unique Staff":
+        {
+            "name": "Unique Staff",
+            "id": "roe_weapons:staff_7",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Cursed Staff":
+        {
+            "name": "Cursed Staff",
+            "id": "roe_weapons:cursed_staff",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Geomancer Staff":
+        {
+            "name": "Geomancer Staff",
+            "id": "mowziesmobs:sculptor_staff",
+            "durability": 200,
+            "special_effect":"undefined"
+        }
+    },
+    "spear":
+    {
+        "Trident":
+        {
+            "name": "Trident",
+            "id": "minecraft:trident",
+            "durability": 250,
+            "special_effect": "undefined"
+        },
+        "Common Spear":
+        {
+            "name": "Common Spear",
+            "id": "roe_weapons:spear_0",
+            "durability": 312,
+            "special_effect": "undefined"
+        },
+        "Uncommon Spear":
+        {
+            "name": "Uncommon Spear",
+            "id": "roe_weapons:spear_1",
+            "durability": 624,
+            "special_effect": "undefined"
+        },
+        "Rare Spear":
+        {
+            "name": "Rare Spear",
+            "id": "roe_weapons:spear_2",
+            "durability": 936,
+            "special_effect": "undefined"
+        },
+        "Epic Spear":
+        {
+            "name": "Epic Spear",
+            "id": "roe_weapons:spear_3",
+            "durability": 1248,
+            "special_effect": "undefined"
+        },
+        "Legendary Spear":
+        {
+            "name": "Legendary Spear",
+            "id": "roe_weapons:spear_4",
+            "durability": 1561,
+            "special_effect": "undefined"
+        },
+        "Mythic Spear":
+        {
+            "name": "Mythic Spear",
+            "id": "roe_weapons:spear_5",
+            "durability": 1872,
+            "special_effect": "undefined"
+        },
+        "Rune Spear":
+        {
+            "name": "Rune Spear",
+            "id": "roe_weapons:spear_6",
+            "durability": 1561,
+            "special_effect": "undefined"
+        },
+        "Unique Spear":
+        {
+            "name": "Unique Spear",
+            "id": "roe_weapons:spear_7",
+            "durability": 2032,
+            "special_effect": "undefined"
+        },
+        "Cursed Spear":
+        {
+            "name": "Cursed Spear",
+            "id": "roe_weapons:cursed_spear",
+            "durability": 2032,
+            "special_effect": "undefined"
+        },
+        "Spear":
+        {
+            "name": "Spear",
+            "id": "mowziesmobs:spear",
+            "durability": 131,
+            "special_effect": "undefined"
+        },
+        "Whisper of the Abyss":
+        {
+            "name": "Whisper of the Abyss",
+            "id": "aquamirae:whisper_of_the_abyss",
+            "durability": 1400,
+            "special_effect": "undefined"
+        },
+        "Coral Lance":
+        {
+            "name": "Coral Lance",
+            "id": "aquamirae:coral_lance",
+            "durability": 1400,
+            "special_effect": "undefined"
+        },
+        "Sweet Lance":
+        {
+            "name": "Sweet Lance",
+            "id": "aquamirae:sweet_lance",
+            "durability": 1400,
+            "special_effect": "undefined"
+        },
+        "Bluebright Spear":
+        {
+            "name": "Bluebright Spear",
+            "id": "blue_skies:bluebright_spear",
+            "durability": 250,
+            "special_effect": "undefined"
+        },
+        "Starlit Spear":
+        {
+            "name": "Starlit Spear",
+            "id": "blue_skies:starlit_spear",
+            "durability": 225,
+            "special_effect": "undefined"
+        },
+        "Frostbright Spear":
+        {
+            "name": "Frostbright Spear",
+            "id": "blue_skies:frostbright_spear",
+            "durability": 275,
+            "special_effect": "undefined"
+        },
+        "Lunar Spear":
+        {
+            "name": "Lunar Spear",
+            "id": "blue_skies:lunar_spear",
+            "durability": 250,
+            "special_effect": "undefined"
+        },
+        "Dusk Spear":
+        {
+            "name": "Dusk Spear",
+            "id": "blue_skies:dusk_spear",
+            "durability": 225,
+            "special_effect": "undefined"
+        },
+        "Maple Spear":
+        {
+            "name": "Maple Spear",
+            "id": "blue_skies:maple_spear",
+            "durability": 275,
+            "special_effect": "undefined"
+        },
+        "Comet Spear":
+        {
+            "name": "Comet Spear",
+            "id": "blue_skies:comet_spear",
+            "durability": 300,
+            "special_effect": "undefined"
+        },
+        "Soulbound Spear":
+        {
+            "name": "Soulbound Spear",
+            "id": "blue_skies:soulbound_spear",
+            "durability": 450,
+            "special_effect": "undefined"
+        },
+        "Pitchfork":
+        {
+            "name": "Pitchfork",
+            "id": "born_in_chaos_v1:trident_hayfork",
+            "durability": 270,
+            "special_effect": "undefined"
+        }
+    },
+    "bow":
+    {
+        "Bow":
+        {
+            "name": "Bow",
+            "id": "minecraft:bow",
+            "durability": 384,
+            "special_effect":"undefined"
+        },
+        "Livingwood Bow":
+        {
+            "name": "Livingwood Bow",
+            "id": "botania:livingwood_bow",
+            "durability": 500,
+            "special_effect":"undefined"
+        },
+        "Crystal Bow":
+        {
+            "name": "Crystal Bow",
+            "id": "botania:crystal_bow",
+            "durability": 500,
+            "special_effect":"undefined"
+        },
+        "Slingshot":
+        {
+            "name": "Slingshot",
+            "id": "undergarden:slingshot",
+            "durability": 192,
+            "special_effect":"undefined"
+        },
+        "Common Bow":
+        {
+            "name": "Common Bow",
+            "id": "roe_weapons:bow_0",
+            "durability": 312,
+            "special_effect":"undefined"
+        },
+        "Uncommon Bow":
+        {
+            "name": "Uncommon Bow",
+            "id": "roe_weapons:bow_1",
+            "durability": 624,
+            "special_effect":"undefined"
+        },
+        "Rare Bow":
+        {
+            "name": "Rare Bow",
+            "id": "roe_weapons:bow_2",
+            "durability": 936,
+            "special_effect":"undefined"
+        },
+        "Epic Bow":
+        {
+            "name": "Epic Bow",
+            "id": "roe_weapons:bow_3",
+            "durability": 1248,
+            "special_effect":"undefined"
+        },
+        "Legendary Bow":
+        {
+            "name": "Legendary Bow",
+            "id": "roe_weapons:bow_4",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Mythic Bow":
+        {
+            "name": "Mythic Bow",
+            "id": "roe_weapons:bow_5",
+            "durability": 1872,
+            "special_effect":"undefined"
+        },
+        "Rune Bow":
+        {
+            "name": "Rune Bow",
+            "id": "roe_weapons:bow_6",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Unique Bow":
+        {
+            "name": "Unique Bow",
+            "id": "roe_weapons:bow_7",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Cursed Bow":
+        {
+            "name": "Cursed Bow",
+            "id": "roe_weapons:cursed_bow",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Featherdraw":
+        {
+            "name": "Featherdraw",
+            "id": "roe_weapons:featherdraw",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Admin Bow":
+        {
+            "name": "Admin Bow",
+            "id": "roe_weapons:admin_bow",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Blowgun":
+        {
+            "name": "Blowgun",
+            "id": "mowziesmobs:blowgun",
+            "durability": 300,
+            "special_effect":"undefined"
+        },
+        "Neptunium Bow":
+        {
+            "name": "Neptunium Bow",
+            "id": "aquaculture:neptunium_bow",
+            "durability": 2500,
+            "special_effect":"undefined"
+        },
+        "Tri-Bow":
+        {
+            "name": "Tri-Bow",
+            "id": "twilightforest:triple_bow",
+            "durability": 384,
+            "special_effect":"undefined"
+        },
+        "Seeker Bow":
+        {
+            "name": "Seeker Bow",
+            "id": "twilightforest:seeker_bow",
+            "durability": 384,
+            "special_effect":"undefined"
+        },
+        "Ice Bow":
+        {
+            "name": "Ice Bow",
+            "id": "twilightforest:ice_bow",
+            "durability": 384,
+            "special_effect":"undefined"
+        },
+        "Ender Bow":
+        {
+            "name": "Ender Bow",
+            "id": "twilightforest:ender_bow",
+            "durability": 384,
+            "special_effect":"undefined"
+        }
+    },
+    "crossbow":
+    {
+        "Crossbow":
+        {
+            "name": "Crossbow",
+            "id": "minecraft:crossbow",
+            "durability": 465,
+            "special_effect": "undefined"
+        },
+        "Common Crossbow":
+        {
+            "name": "Common Crossbow",
+            "id": "roe_weapons:crossbow_0",
+            "durability": 312,
+            "special_effect": "undefined"
+        },
+        "Uncommon Crossbow":
+        {
+            "name": "Uncommon Crossbow",
+            "id": "roe_weapons:crossbow_1",
+            "durability": 624,
+            "special_effect": "undefined"
+        },
+        "Rare Crossbow":
+        {
+            "name": "Rare Crossbow",
+            "id": "roe_weapons:crossbow_2",
+            "durability": 936,
+            "special_effect": "undefined"
+        },
+        "Epic Crossbow":
+        {
+            "name": "Epic Crossbow",
+            "id": "roe_weapons:crossbow_3",
+            "durability": 1248,
+            "special_effect": "undefined"
+        },
+        "Legendary Crossbow":
+        {
+            "name": "Legendary Crossbow",
+            "id": "roe_weapons:crossbow_4",
+            "durability": 1561,
+            "special_effect": "undefined"
+        },
+        "Mythic Crossbow":
+        {
+            "name": "Mythic Crossbow",
+            "id": "roe_weapons:crossbow_5",
+            "durability": 1872,
+            "special_effect": "undefined"
+        },
+        "Rune Crossbow":
+        {
+            "name": "Rune Crossbow",
+            "id": "roe_weapons:crossbow_6",
+            "durability": 1561,
+            "special_effect": "undefined"
+        },
+        "Unique Crossbow":
+        {
+            "name": "Unique Crossbow",
+            "id": "roe_weapons:crossbow_7",
+            "durability": 2032,
+            "special_effect": "undefined"
+        }
+    },
+    "scythe":
+    {
+        "Common Scythe":
+        {
+            "name": "Common Scythe",
+            "id": "roe_weapons:scythe_0",
+            "durability": 312,
+            "special_effect": "undefined"
+        },
+        "Uncommon Scythe":
+        {
+            "name": "Uncommon Scythe",
+            "id": "roe_weapons:scythe_1",
+            "durability": 624,
+            "special_effect": "undefined"
+        },
+        "Rare Scythe":
+        {
+            "name": "Rare Scythe",
+            "id": "roe_weapons:scythe_2",
+            "durability": 936,
+            "special_effect": "undefined"
+        },
+        "Epic Scythe":
+        {
+            "name": "Epic Scythe",
+            "id": "roe_weapons:scythe_3",
+            "durability": 1248,
+            "special_effect": "undefined"
+        },
+        "Legendary Scythe":
+        {
+            "name": "Legendary Scythe",
+            "id": "roe_weapons:scythe_4",
+            "durability": 1561,
+            "special_effect": "undefined"
+        },
+        "Mythic Scythe":
+        {
+            "name": "Mythic Scythe",
+            "id": "roe_weapons:scythe_5",
+            "durability": 1872,
+            "special_effect": "undefined"
+        },
+        "Rune Scythe":
+        {
+            "name": "Rune Scythe",
+            "id": "roe_weapons:scythe_6",
+            "durability": 1561,
+            "special_effect": "undefined"
+        },
+        "Unique Scythe":
+        {
+            "name": "Unique Scythe",
+            "id": "roe_weapons:scythe_7",
+            "durability": 2032,
+            "special_effect": "undefined"
+        },
+        "Cursed Scythe":
+        {
+            "name": "Cursed Scythe",
+            "id": "roe_weapons:cursed_scythe",
+            "durability": 2032,
+            "special_effect": "undefined"
+        },
+        "Scythe":
+        {
+            "name": "Scythe",
+            "id": "mca:scythe",
+            "durability": 32,
+            "special_effect": "undefined"
+        },
+        "Nightmare Scythe":
+        {
+            "name": "Nightmare Scythe",
+            "id": "born_in_chaos_v1:nightmare_scythe",
+            "durability": 700,
+            "special_effect": "undefined"
+        }
+    },
+    "greatsword":
+    {
+        "Ossukage Blade":
+        {
+            "name": "Ossukage Blade",
+            "id": "remnant_bosses:ossukage_sword",
+            "durability": "infinite",
+            "special_effect":"undefined"
+        },
+        "Common Greatsword":
+        {
+            "name": "Common Greatsword",
+            "id": "roe_weapons:greatsword_0",
+            "durability": 312,
+            "special_effect":"undefined"
+        },
+        "Uncommon Greatsword":
+        {
+            "name": "Uncommon Greatsword",
+            "id": "roe_weapons:greatsword_1",
+            "durability": 624,
+            "special_effect":"undefined"
+        },
+        "Rare Greatsword":
+        {
+            "name": "Rare Greatsword",
+            "id": "roe_weapons:greatsword_2",
+            "durability": 936,
+            "special_effect":"undefined"
+        },
+        "Epic Greatsword":
+        {
+            "name": "Epic Greatsword",
+            "id": "roe_weapons:greatsword_3",
+            "durability": 1248,
+            "special_effect":"undefined"
+        },
+        "Legendary Greatsword":
+        {
+            "name": "Legendary Greatsword",
+            "id": "roe_weapons:greatsword_4",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Mythic Greatsword":
+        {
+            "name": "Mythic Greatsword",
+            "id": "roe_weapons:greatsword_5",
+            "durability": 1872,
+            "special_effect":"undefined"
+        },
+        "Rune Greatsword":
+        {
+            "name": "Rune Greatsword",
+            "id": "roe_weapons:greatsword_6",
+            "durability": 1561,
+            "special_effect":"undefined"
+        },
+        "Unique Greatsword":
+        {
+            "name": "Unique Greatsword",
+            "id": "roe_weapons:greatsword_7",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Cursed Greatsword":
+        {
+            "name": "Cursed Greatsword",
+            "id": "roe_weapons:cursed_greatsword",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Bustersword":
+        {
+            "name": "Bustersword",
+            "id": "roe_weapons:bustersword",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Dragon Slayer":
+        {
+            "name": "Dragon Slayer",
+            "id": "roe_weapons:dragon_slayer",
+            "durability": 2032,
+            "special_effect":"undefined"
+        },
+        "Dark Warblade":
+        {
+            "name": "Dark Warblade",
+            "id": "born_in_chaos_v1:darkwarblade",
+            "durability": 4000,
+            "special_effect":"undefined"
+        }
+    },
+    "gauntlet":
+    {
+        "Common Gauntlet":
+        {
+            "name": "Common Gauntlet",
+            "id": "roe_weapons:gauntlet_0",
+            "durability": 312,
+            "special_effect": "undefined"
+        },
+        "Uncommon Gauntlet":
+        {
+            "name": "Uncommon Gauntlet",
+            "id": "roe_weapons:gauntlet_1",
+            "durability": 624,
+            "special_effect": "undefined"
+        },
+        "Rare Gauntlet":
+        {
+            "name": "Rare Gauntlet",
+            "id": "roe_weapons:gauntlet_2",
+            "durability": 936,
+            "special_effect": "undefined"
+        },
+        "Epic Gauntlet":
+        {
+            "name": "Epic Gauntlet",
+            "id": "roe_weapons:gauntlet_3",
+            "durability": 1248,
+            "special_effect": "undefined"
+        },
+        "Legendary Gauntlet":
+        {
+            "name": "Legendary Gauntlet",
+            "id": "roe_weapons:gauntlet_4",
+            "durability": 1561,
+            "special_effect": "undefined"
+        },
+        "Mythic Gauntlet":
+        {
+            "name": "Mythic Gauntlet",
+            "id": "roe_weapons:gauntlet_5",
+            "durability": 1872,
+            "special_effect": "undefined"
+        },
+        "Rune Gauntlet":
+        {
+            "name": "Rune Gauntlet",
+            "id": "roe_weapons:gauntlet_6",
+            "durability": 1561,
+            "special_effect": "undefined"
+        },
+        "Unique Gauntlet":
+        {
+            "name": "Unique Gauntlet",
+            "id": "roe_weapons:gauntlet_7",
+            "durability": 2032,
+            "special_effect": "undefined"
+        },
+        "Cursed Gauntlet":
+        {
+            "name": "Cursed Gauntlet",
+            "id": "roe_weapons:cursed_gauntlet",
+            "durability": 2032,
+            "special_effect": "undefined"
+        },
+        "Wolf Claws":
+        {
+            "name": "Wolf Claws",
+            "id": "roe_weapons:wolf_claws",
+            "durability": 2032,
+            "special_effect": "undefined"
+        },
+        "Katar":
+        {
+            "name": "Katar",
+            "id": "roe_weapons:katar",
+            "durability": 2032,
+            "special_effect": "undefined"
+        }
+    }
+}

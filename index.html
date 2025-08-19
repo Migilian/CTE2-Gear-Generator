@@ -5,21 +5,87 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>CTE2 Gear Generator</title>
-    <link rel="icon" type="image/png" href="assets/main_icon.png">
+    <link rel="icon" type="image/svg" href="assets/main_icon.svg">
     <link href="styles.css" rel="stylesheet">
-
-    <script src="script.js" type="module"></script>
 </head>
 <body>
-    <div id="generators">
-        <ul>
-            <li>Gear</li>
-            <li>Jewels</li>
-            <li>Augments</li>
-            <li>Support Gems</li>
-            <li>Relics</li>
-            <li>Maps</li>
-        </ul>
+    <div id="tabs-window" style="display:flex; flex-direction:column; background-color:rgb(8, 21, 27); z-index:999;">
+        <div id="tabs">
+            <ul id="selection-buttons">
+                <li>
+                    <button class="custom-button" id="gear-gen">> Gear</button>
+                </li>
+                <li>
+                    <button class="custom-button" id="jewel-gen">> Jewels</button>
+                </li>
+                <li>
+                    <button class="custom-button" id="augment-gen">> Augments</button>
+                </li>
+                <li>
+                    <button class="custom-button" id="supp-gen">> Support Gems</button>
+                </li>
+                <li>
+                    <button class="custom-button" id="relic-gen">> Relics</button>
+                </li>
+                <li>
+                    <button class="custom-button" id="map-gen">> Maps</button>
+                </li>
+            </ul>
+            <div id="player-level-input">
+                <div id="player-level-desc">
+                    Player Level:
+                    <label for="level" id="level-label">100</label>
+                </div>
+                <div id="level-input">
+                    <input type="range" name="level" id="level" min="1" value="100">
+                </div>
+            </div>
+            
+        </div>
     </div>
+    <div id="main-window" style="height:100%">
+        <div class="slots" id="slots">
+            <button class="custom-button2" id="weapon"><img src="assets/textures/gui/empty_weapon_slot.svg" alt="Weapon" class="slotsIcon"></button>
+            <button class="custom-button2" id="offhand"><img src="assets/textures/gui/empty_shield_slot.svg" alt="Offhand" class="slotsIcon"></button>
+            <button class="custom-button2" id="helmet"><img src="assets/textures/gui/empty_helmet_slot.svg" alt="Helmet" class="slotsIcon"></button>
+            <button class="custom-button2" id="chest"><img src="assets/textures/gui/empty_chest_slot.svg" alt="Chest" class="slotsIcon"></button>
+            <button class="custom-button2" id="pants"><img src="assets/textures/gui/empty_pants_slot.svg" alt="Pants" class="slotsIcon"></button>
+            <button class="custom-button2" id="boots"><img src="assets/textures/gui/empty_boots_slot.svg" alt="Boots" class="slotsIcon"></button>
+            <button class="custom-button2" id="necklace"><img src="assets/textures/gui/empty_necklace_slot.svg" alt="Necklace" class="slotsIcon"></button>
+            <button class="custom-button2" id="ring"><img src="assets/textures/gui/empty_ring_slot.svg" alt="Ring" class="slotsIcon"></button>
+            <button class="custom-button2" id="codex"><img src="assets/textures/gui/empty_omen_slot.svg" alt="Codex" class="slotsIcon"></button>
+            <button class="custom-button2" id="elytra"><img src="assets/textures/gui/empty_elytra_slot.svg" alt="Elytra" class="slotsIcon"></button>
+            <button class="custom-button2" id="head"><img src="assets/textures/gui/empty_head_slot.svg" alt="Head" class="slotsIcon"></button>
+        </div>
+        <div id="generators-tab">
+            <div class="hidden generator" id="gear">
+                <p class="preview2">Gear Generator</p>
+            </div>
+            <div class="hidden generator" id="jewel">
+                <p class="preview2">Jewel Generator</p>
+            </div>
+            <div class="hidden generator" id="aura">
+                <p class="preview2">Augment Generator</p>
+            </div>
+            <div class="hidden generator" id="support">
+                <p class="preview2">Support Gem Generator</p>
+            </div>
+            <div class="hidden generator" id="relic">
+                <p class="preview2">Relic Generator</p>
+            </div>
+            <div class="hidden generator" id="map">
+                <p class="preview2">Map Generator</p>
+            </div>
+        </div>
+        <div id="preview">
+            <div id="preview1" class="active">
+                <p class="preview2" id="preview2">Preview</p>
+            </div>
+            <div id="actual-preview">
+
+            </div>
+        </div>
+    </div>
+    <script type="module" src="index.js"></script>
 </body>
 </html>

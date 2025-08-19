@@ -1,0 +1,66 @@
+{
+    "aura":
+    {
+        "Dex Aura":
+        {
+            "name": "Augment",
+            "id": "mmorpg:skill_gems/aura/dex"
+        },
+        "Int Aura":
+        {
+            "name": "Augment",
+            "id": "mmorpg:skill_gems/aura/int"
+        },
+        "Str Aura":
+        {
+            "name": "Augment",
+            "id": "mmorpg:skill_gems/aura/str"
+        }
+    },
+    "support":
+    {
+        "Dex Support Gem":
+        {
+            "name": "Support Gem",
+            "id": "mmorpg:skill_gems/support/dex"
+        },
+        "Int Support Gem":
+        {
+            "name": "Support Gem",
+            "id": "mmorpg:skill_gems/support/int"
+        },
+        "Str Support Gem":
+        {
+            "name": "Support Gem",
+            "id": "mmorpg:skill_gems/support/str"
+        }
+    },
+    "jewel":
+    {
+        "Dex Jewel":
+        {
+            "name": "Viridian Jewel",
+            "id": "mmorpg:jewel/dex"
+        },
+        "Int Jewel":
+        {
+            "name": "Stardust Jewel",
+            "id": "mmorpg:jewel/int"
+        },
+        "Str Jewel":
+        {
+            "name": "Meteorite Jewel",
+            "id": "mmorpg:jewel/str"
+        },
+        "Runed Jewel":
+        {
+            "name": "Runed Craftsmanship Unique Jewel",
+            "id": "mmorpg:jewel/unique_crafted"
+        },
+        "Abyssal Jewel":
+        {
+            "name": "Watcher Eye",
+            "id": "mmorpg:jewel/watcher_eye"
+        }
+    }
+}

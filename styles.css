@@ -1,21 +1,291 @@
+/* stylelint-disable selector-class-pattern */
+/* stylelint-disable custom-property-pattern */
 @font-face {
-    font-family: "Minecraft";
+    font-family: Minecraftia;
     font-style: normal;
     font-weight: normal;
     src: url("./assets/Minecraftia-Regular.ttf");
 }
 
+:root {
+    --tabsWidth:16rem;
+    --slotsMargin:1rem;
+    --slotsWidth:28rem;
+    --slotSize:36px;
+    --defaultGreen:rgb(123 255 119);
+    --defaultBlack:rgb(8 21 27);
+    --defaultPadding:1rem;
+}
+
 html, body {
-    font-family: Minecraft, sans-serif;
-    height: 100%;
+    font-family: Minecraftia, sans-serif;
+    height: 100vh;
+    width: 100%;
     margin: 0;
     overflow: hidden;
+    background-color: var(--defaultBlack);
 }
 
-.preview-add img, .preview-remove img {
+.hidden {
+    display: none !important;
+}
+
+.visible {
+    display: flex !important;
     opacity: 1.0 !important;
 }
 
-.highlighted img {
-    opacity: 1.0 !important;
+#tabs-window {
+    width:var(--tabsWidth);
+    height:100%;
+}
+
+#tabs {
+    display:block;
+    height: 100%;
+    border-style:solid;
+    border-width: 0 3px 0 0;
+    border-color:rgb(32 66 31);
+    justify-content: center;
+}
+
+.custom-button {
+    display:flex;
+    font-size: x-large;
+    font-family: Minecraft, sans-serif;
+    width: 100%;
+    height: 40px;
+    background-color: var(--defaultBlack);
+    border-color: var(--defaultBlack);
+    color:var(--defaultGreen);
+    align-items: center;
+    text-align: left;
+    border-radius: 6px;
+    margin:5%;
+}
+
+.custom-button:hover {
+    opacity:0.8;
+}
+
+.custom-button:disabled {
+    opacity: 0.5;
+    color:rgb(8 21 27);
+    background-color:rgb(123 255 119);
+}
+
+input[type="range"] {
+    accent-color: rgb(0 155 0);
+}
+
+#level {
+    position: fixed;
+    bottom:0.5rem;
+    width: calc(var(--tabsWidth) - 1rem);
+}
+
+#level-input {
+    height: 1rem;
+    align-items: center;
+}
+
+#level-label {
+    align-self: center;
+    color: var(--defaultGreen);
+}
+
+#player-level-input {
+    width: calc(var(--tabsWidth) - 1rem);
+    padding: 0 0.5rem;
+    position: fixed;
+    bottom: 0;
+    justify-content: center;
+}
+
+#player-level-desc {
+    display: flex;
+    color: rgb(0 155 0);
+    width: 100%;
+    justify-content: center;
+}
+
+#main-window {
+    display:block;
+    width:calc(100% - var(--tabsWidth));
+    position:fixed;
+    right:0;
+    top:0;
+}
+
+#selection-buttons {
+    display:inline-block;
+    list-style-type:none;
+    height: 100%;
+    padding:var(--defaultPadding);
+    margin:0;
+}
+
+#generators-tab {
+    display:flex;
+    height:100%;
+    width:calc((100% - var(--tabsWidth))*0.5);
+    border-style: solid;
+    border-color: rgb(32 66 31);
+    border-width: 0 0 0 3px;
+    position: fixed;
+    bottom:0;
+    transition: all 0.5s ease;
+}
+
+#generators-tab.active {
+    height:calc(100% - var(--slotSize) - 2*var(--defaultPadding) - 5px);
+    transition: all 0.5s ease;
+}
+
+.generator {
+    margin:0;
+    color: white;
+    width:100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.custom-button2 {
+    justify-content: center;
+    height: var(--slotSize);
+    width: var(--slotSize);
+    background-color: rgb(123 255 119);
+    opacity: 0.5;
+    padding: 0;
+    border-width: 2px;
+    border-color: rgb(230 230 230);
+}
+
+.custom-button2:hover {
+    opacity: 0.7;
+}
+
+.custom-button2:disabled {
+    opacity: 1;
+    background-color: rgb(8 21 27);
+}
+
+.custom-button2.active {
+    opacity: 1;
+}
+
+.slots {
+    height:var(--slotSize);
+    position: absolute;
+    top:-74px;
+    padding:1rem;
+    width: 100%;
+    border-style: solid;
+    border-color: rgb(32 66 31);
+    border-width: 0 0 5px 3px;
+    transition: all 0.5s ease;
+}
+
+.slots.active {
+    top:0;
+    transition: all 0.5s ease;
+}
+
+.slotsIcon {
+    place-self: center center;
+    display: flex;
+    height:calc(var(--slotSize) - 8px);
+    object-fit: cover;
+}
+
+/* .dropdown {
+    object-fit: cover;
+    z-index: 99;
+    display: flex;
+    height: var(--slotSize);
+    width: var(--slotSize);
+    position:relative;
+    top: calc(var(--defaultPadding) + var(--slotSize));
+    left: calc(var(--defaultPadding) + 2px);
+    margin: 2px 0;
+    place-items: center;
+    place-content: center;
+} */
+
+#preview {
+    display:flex;
+    height: 100%;
+    width:calc((100% - var(--tabsWidth) - var(--defaultPadding))*0.5);
+    position:fixed;
+    bottom:0;
+    right:0;
+    color: white;
+    border-style: solid;
+    border-color: rgb(32 66 31);
+    border-width: 0 0 0 5px;
+    transition: all 0.5s ease;
+}
+
+#preview.active {
+    height: calc(100% - var(--slotSize) - 2*var(--defaultPadding) - 5px);
+    transition: all 0.5s ease;
+}
+
+#preview1.active {
+    width:calc((100% - var(--tabsWidth) - var(--defaultPadding))*0.5);
+    position:absolute;
+    left:calc(0 - ((100vw - var(--tabsWidth) - var(--defaultPadding))*0.5));
+    display:none !important;
+    transition: all 0.5s ease;
+    padding:0;
+}
+
+#preview1 {
+    position:absolute;
+    width:100%;
+    left:0;
+    align-content:center;
+    transition: all 0.5s ease;
+    padding:0;
+}
+
+.preview2 {
+    margin:0;
+    padding-left: var(--defaultPadding);
+    padding-top: var(--defaultPadding);
+    border-style: solid;
+    border-width: 0 0 4px;
+    border-color: rgb(32 66 31);
+    height: fit-content;
+    width:100%;
+}
+
+select {
+    overflow: visible;
+}
+
+.dropdown {
+    display: flex;
+    flex-direction: column;
+    padding:0;
+    margin:0;
+}
+
+.dropdownoption {
+    padding: 0;
+    height: var(--slotSize);
+    width:var(--slotSize);
+    object-fit: cover;
+    justify-content: center;
+    z-index: 99;
+    background-color: rgb(81 136 81);
+    opacity: 1;
+    border-width: 2px;
+    border-color: rgb(230 230 230);
+    margin-bottom:1px;
+}
+
+.dropdownoption:hover {
+    opacity:0.8;
 }
