@@ -1,6 +1,6 @@
 import { supportBase } from "../bases.js";
-// import fs from 'fs';
-// import path from 'path';
+import fs from "fs";
+import path from 'path';
 
 const mmorpg_skill_gem = {
     "id":undefined,
@@ -41,7 +41,18 @@ function makeSuppAndAuraSlots(target)
 
     parent.appendChild(typeSelection);
 
-    // const slots = {'data/1.0.7/base_gear_pieces/gems.json'};
+    fs.readFile('data/1.0.7/base_gear_pieces/gems.json', (err, myString) => 
+    {
+        if (err)
+        {
+            console.log(err);
+        }
+        else
+        {
+            const slots = JSON.parse(myString);
+            console.log(slots);
+        }
+    });
     // console.log(slots);
     const type = document.createElement("button");
     type.classList.add("slotsIcon");
