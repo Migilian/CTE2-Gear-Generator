@@ -1,5 +1,5 @@
 import { colorMap } from "./source/constants.js";
-import { fontColor,makeAllVisible,makeOneFromClassDisabled, makeOneFromClassVisible, makeAllEnabled, makeAllFromClassHidden, makeIdVisible } from "./source/windows/styling.js";
+import { fontColor,makeAllVisible,makeOneFromClassDisabled, makeOneFromClassVisible, makeAllEnabled, makeAllFromClassHidden } from "./source/windows/styling.js";
 import { handleSuppAndAuraGenerator } from "./source/generators/aura&support.js";
 import { slotsDropdown } from "./source/windows/customdropdown.js";
 import { handleJewelGenerator } from "./source/generators/jewels.js";
