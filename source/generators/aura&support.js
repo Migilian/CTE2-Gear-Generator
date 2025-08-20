@@ -1,6 +1,5 @@
-import { supportBase } from "../bases.js";
-import fs from "fs";
-import path from 'path';
+import { loadFile } from "../windows/loading.js";
+import { makeOneFromClassDisabled, makeOneFromClassActive } from "../windows/styling.js";
 
 const mmorpg_skill_gem = {
     "id":undefined,
@@ -38,27 +37,52 @@ function makeSuppAndAuraSlots(target)
     typeSelection.style.display = "flex";
     typeSelection.style.flexDirection = "row";
     typeSelection.style.width = "100%";
+    typeSelection.style.padding = "0.5rem 0 0 0.5rem";
 
     parent.appendChild(typeSelection);
 
-    fs.readFile('data/1.0.7/base_gear_pieces/gems.json', (err, myString) => 
+    // const fileAura = fetch("/data/1.0.7/base_gear_pieces/gems.json");
+    // const aura = new Response(fileAura);
+    // console.log(aura);
+
+    const auraData = loadFile("/data/1.0.7/base_gear_pieces/gems.json")
+    const data = JSON.parse(auraData);
+    let auraOrSupport = {};
+    if (target == "aura")
     {
-        if (err)
+        auraOrSupport = data.aura;
+    }
+    else
+    {
+        auraOrSupport = data.support;
+    }
+    for (let tip in auraOrSupport)
+    {
+        const type = document.createElement("button");
+        type.classList.add(`${target}Slot`);
+        type.id = tip + target[0].capitalize() + target.toString().slice(1);
+        type.style.padding = 0;
+        type.style.margin = "1px";
+        type.style.objectFit = "cover";
+        const image = new Image(undefined, undefined);
+        if (target == "aura")
         {
-            console.log(err);
+            image.src = `assets/textures/items/skill_gems/aura/${tip}.svg`;
         }
         else
         {
-            const slots = JSON.parse(myString);
-            console.log(slots);
+            image.src = `assets/textures/items/skill_gems/support/${tip}.svg`;
         }
-    });
-    // console.log(slots);
-    const type = document.createElement("button");
-    type.classList.add("slotsIcon");
-    type.style.padding = 0;
+        type.appendChild(image);
+        typeSelection.appendChild(type);
+        type.onclick = function ()
+        {
+            makeOneFromClassActive(target + "Slot", tip + target[0].capitalize() + target.toString().slice(1));
+            makeOneFromClassDisabled(target + "Slot" ,tip + target[0].capitalize() + target.toString().slice(1));
+            console.log(`auraOrSupport.${tip}.id`);
+        }
+    }
 
-    typeSelection.appendChild(type);
 }
 
 // Stat selection for Augments and Supports
@@ -79,11 +103,11 @@ function handleSupportStatSelection(target)
     const desc = document.createElement("p");
     if (target == "aura")
     {
-        desc.innerHTML = "Choose an " + target.replace("-", " ").capitalize() + ": ";
+        desc.innerHTML = "Choose an " + target.replace("-", " ").capitalize() + " Effect: ";
     }
     else
     {
-        desc.innerHTML = "Choose a " + target.replace("-", " ").capitalize() + ": ";
+        desc.innerHTML = "Choose a " + target.replace("-", " ").capitalize() + " Gem Effect: ";
     }
     desc.style.margin = 0;
     desc.style.color = 'var(--defaultGreen)';

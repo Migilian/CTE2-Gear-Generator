@@ -1,5 +1,5 @@
 import { gearSlots } from "../constants.js";
-import { makeOneFromClassActive, makeIdDisabled, makeOneFromClassVisible, makeAllFromClassHidden, makeAllEnabled, makeAllFromClassInactive } from "./styling.js";
+import { makeOneFromClassActive, makeOneFromClassDisabled, makeOneFromClassVisible, makeAllFromClassHidden, makeAllEnabled, makeAllFromClassInactive } from "./styling.js";
 
 export function slotsDropdown()
 {
@@ -27,7 +27,7 @@ export function slotsDropdown()
             {
                 if (document.getElementById(z[0]+1).childElementCount !== 0)
                 {
-                    makeIdDisabled("custom-button2", z[0]);
+                    makeOneFromClassDisabled("custom-button2", z[0]);
                     makeOneFromClassVisible("dropdown", z[0]+1);
                     document.getElementById(z[0]).classList.remove("active");
                     makeAllFromClassInactive("custom-button2");

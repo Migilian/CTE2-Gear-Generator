@@ -63,7 +63,7 @@ export function addClassToOneOf(addition, id, className)
     }
 }
 
-export function makeIdDisabled(className, id)
+export function makeOneFromClassDisabled(className, id)
 {
     const element = document.getElementsByClassName(className);
     const eArray = Array.from(element);

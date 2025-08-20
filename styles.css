@@ -286,6 +286,95 @@ select {
     margin-bottom:1px;
 }
 
+
 .dropdownoption:hover {
     opacity:0.8;
+}
+
+.auraSlot {
+    padding: 0;
+    height: var(--slotSize);
+    width:var(--slotSize);
+    object-fit: cover;
+    justify-content: center;
+    z-index: 99;
+    background-color: green;
+    opacity: 0.5;
+    border-width: 2px;
+    border-color: rgb(230 230 230);
+    margin-bottom:1px;
+}
+
+.auraSlot:hover {
+    opacity: 0.7;
+}
+
+.auraSlot.active {
+    opacity: 1;
+}
+
+.supportSlot {
+    padding: 0;
+    height: var(--slotSize);
+    width:var(--slotSize);
+    object-fit: cover;
+    justify-content: center;
+    z-index: 99;
+    background-color: green;
+    opacity: 0.5;
+    border-width: 2px;
+    border-color: rgb(230 230 230);
+    margin-bottom:1px;
+}
+
+.supportSlot:hover {
+    opacity: 0.7;
+}
+
+.supportSlot.active {
+    opacity: 1;
+}
+
+.jewelSlot {
+    padding: 0;
+    height: var(--slotSize);
+    width:var(--slotSize);
+    object-fit: cover;
+    justify-content: center;
+    z-index: 99;
+    background-color: green;
+    opacity: 0.5;
+    border-width: 2px;
+    border-color: rgb(230 230 230);
+    margin-bottom:1px;
+}
+
+.jewelSlot:hover {
+    opacity: 0.7;
+}
+
+.jewelSlot.active {
+    opacity: 1;
+}
+
+.relicSlot {
+    padding: 0;
+    height: var(--slotSize);
+    width:var(--slotSize);
+    object-fit: cover;
+    justify-content: center;
+    z-index: 99;
+    background-color: green;
+    opacity: 0.5;
+    border-width: 2px;
+    border-color: rgb(230 230 230);
+    margin-bottom:1px;
+}
+
+.relicSlot:hover {
+    opacity: 0.7;
+}
+
+.relicSlot.active {
+    opacity: 1;
 }

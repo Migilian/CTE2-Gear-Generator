@@ -1,17 +1,17 @@
 {
     "aura":
     {
-        "Dex Aura":
+        "dex":
         {
             "name": "Augment",
             "id": "mmorpg:skill_gems/aura/dex"
         },
-        "Int Aura":
+        "int":
         {
             "name": "Augment",
             "id": "mmorpg:skill_gems/aura/int"
         },
-        "Str Aura":
+        "str":
         {
             "name": "Augment",
             "id": "mmorpg:skill_gems/aura/str"
@@ -19,17 +19,17 @@
     },
     "support":
     {
-        "Dex Support Gem":
+        "dex":
         {
             "name": "Support Gem",
             "id": "mmorpg:skill_gems/support/dex"
         },
-        "Int Support Gem":
+        "int":
         {
             "name": "Support Gem",
             "id": "mmorpg:skill_gems/support/int"
         },
-        "Str Support Gem":
+        "str":
         {
             "name": "Support Gem",
             "id": "mmorpg:skill_gems/support/str"
@@ -37,30 +37,53 @@
     },
     "jewel":
     {
-        "Dex Jewel":
+        "dex":
         {
             "name": "Viridian Jewel",
             "id": "mmorpg:jewel/dex"
         },
-        "Int Jewel":
+        "int":
         {
             "name": "Stardust Jewel",
             "id": "mmorpg:jewel/int"
         },
-        "Str Jewel":
+        "str":
         {
             "name": "Meteorite Jewel",
             "id": "mmorpg:jewel/str"
         },
-        "Runed Jewel":
+        "unique_crafted":
         {
             "name": "Runed Craftsmanship Unique Jewel",
             "id": "mmorpg:jewel/unique_crafted"
         },
-        "Abyssal Jewel":
+        "watcher_eye":
         {
             "name": "Watcher Eye",
             "id": "mmorpg:jewel/watcher_eye"
+        }
+    },
+    "relic":
+    {
+        "general":
+        {
+            "name": "General Relic",
+            "id": "dungeon_realm:general_relic"
+        },
+        "mmorpg":
+        {
+            "name": "MMORPG Relic",
+            "id": "mmorpg:relic"
+        },
+        "harvest":
+        {
+            "name": "Harvest Relic",
+            "id": "the_harvest:relic"
+        },
+        "ancient obelisk":
+        {
+            "name": "Obelisk Relic",
+            "id": "ancient_obelisks:relic"
         }
     }
 }

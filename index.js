@@ -1,14 +1,18 @@
 import { colorMap } from "./source/constants.js";
-import { fontColor,makeAllVisible,makeIdDisabled, makeOneFromClassVisible, makeAllEnabled, makeAllFromClassHidden, makeIdVisible } from "./source/windows/styling.js";
+import { fontColor,makeAllVisible,makeOneFromClassDisabled, makeOneFromClassVisible, makeAllEnabled, makeAllFromClassHidden, makeIdVisible } from "./source/windows/styling.js";
 import { handleSuppAndAuraGenerator } from "./source/generators/aura&support.js";
 import { slotsDropdown } from "./source/windows/customdropdown.js";
+import { handleJewelGenerator } from "./source/generators/jewels.js";
+import { handleRelicGenerator } from "./source/generators/relics.js";
 
 slotsDropdown();
 handleSuppAndAuraGenerator("support", "aura");
+handleJewelGenerator("jewel");
+handleRelicGenerator("relic");
 document.getElementById("gear-gen").onclick = function()
 {
     makeOneFromClassVisible("generator", "gear");
-    makeIdDisabled("custom-button","gear-gen");
+    makeOneFromClassDisabled("custom-button","gear-gen");
     document.getElementById("slots").classList.add("active");
     document.getElementById("generators-tab").classList.add("active");
     document.getElementById("preview").classList.add("active");
@@ -18,7 +22,7 @@ document.getElementById("gear-gen").onclick = function()
 document.getElementById("jewel-gen").onclick = function()
 {
     makeOneFromClassVisible("generator", "jewel");
-    makeIdDisabled("custom-button","jewel-gen");
+    makeOneFromClassDisabled("custom-button","jewel-gen");
     document.getElementById("slots").classList.remove("active");
     document.getElementById("generators-tab").classList.remove("active");
     document.getElementById("preview").classList.remove("active");
@@ -29,7 +33,7 @@ document.getElementById("jewel-gen").onclick = function()
 document.getElementById("augment-gen").onclick = function()
 {
     makeOneFromClassVisible("generator", "aura");
-    makeIdDisabled("custom-button","augment-gen");
+    makeOneFromClassDisabled("custom-button","augment-gen");
     document.getElementById("slots").classList.remove("active");
     document.getElementById("generators-tab").classList.remove("active");
     document.getElementById("preview").classList.remove("active");
@@ -40,7 +44,7 @@ document.getElementById("augment-gen").onclick = function()
 document.getElementById("supp-gen").onclick = function()
 {
     makeOneFromClassVisible("generator", "support");
-    makeIdDisabled("custom-button","supp-gen");
+    makeOneFromClassDisabled("custom-button","supp-gen");
     document.getElementById("slots").classList.remove("active");
     document.getElementById("generators-tab").classList.remove("active");
     document.getElementById("preview").classList.remove("active");
@@ -51,7 +55,7 @@ document.getElementById("supp-gen").onclick = function()
 document.getElementById("relic-gen").onclick = function()
 {
     makeOneFromClassVisible("generator", "relic");
-    makeIdDisabled("custom-button","relic-gen");
+    makeOneFromClassDisabled("custom-button","relic-gen");
     document.getElementById("slots").classList.remove("active");
     document.getElementById("generators-tab").classList.remove("active");
     document.getElementById("preview").classList.remove("active");
@@ -62,7 +66,7 @@ document.getElementById("relic-gen").onclick = function()
 document.getElementById("map-gen").onclick = function()
 {
     makeOneFromClassVisible("generator", "map");
-    makeIdDisabled("custom-button","map-gen");
+    makeOneFromClassDisabled("custom-button","map-gen");
     document.getElementById("slots").classList.remove("active");
     document.getElementById("generators-tab").classList.remove("active");
     document.getElementById("preview").classList.remove("active");
