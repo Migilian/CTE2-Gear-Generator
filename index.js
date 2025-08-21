@@ -9,6 +9,7 @@ slotsDropdown();
 handleSuppAndAuraGenerator("support", "aura");
 handleJewelGenerator("jewel");
 handleRelicGenerator("relic");
+
 document.getElementById("gear-gen").onclick = function()
 {
     makeOneFromClassVisible("generator", "gear");

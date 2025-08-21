@@ -41,48 +41,29 @@ function makeSuppAndAuraSlots(target)
 
     parent.appendChild(typeSelection);
 
-    // const fileAura = fetch("/data/1.0.7/base_gear_pieces/gems.json");
-    // const aura = new Response(fileAura);
-    // console.log(aura);
-
-    const auraData = loadFile("/data/1.0.7/base_gear_pieces/gems.json")
-    const data = JSON.parse(auraData);
-    let auraOrSupport = {};
-    if (target == "aura")
-    {
-        auraOrSupport = data.aura;
-    }
-    else
-    {
-        auraOrSupport = data.support;
-    }
-    for (let tip in auraOrSupport)
-    {
-        const type = document.createElement("button");
-        type.classList.add(`${target}Slot`);
-        type.id = tip + target[0].capitalize() + target.toString().slice(1);
-        type.style.padding = 0;
-        type.style.margin = "1px";
-        type.style.objectFit = "cover";
-        const image = new Image(undefined, undefined);
-        if (target == "aura")
+    fetch("data/1.0.7/base_gear_pieces/gems.json").then(response => response.json()).then(json => 
         {
-            image.src = `assets/textures/items/skill_gems/aura/${tip}.svg`;
-        }
-        else
-        {
-            image.src = `assets/textures/items/skill_gems/support/${tip}.svg`;
-        }
-        type.appendChild(image);
-        typeSelection.appendChild(type);
-        type.onclick = function ()
-        {
-            makeOneFromClassActive(target + "Slot", tip + target[0].capitalize() + target.toString().slice(1));
-            makeOneFromClassDisabled(target + "Slot" ,tip + target[0].capitalize() + target.toString().slice(1));
-            console.log(`auraOrSupport.${tip}.id`);
-        }
-    }
-
+            let auraOrSupport = json[target];
+            for (let tip in auraOrSupport)
+            {
+                const type = document.createElement("button");
+                type.classList.add(`${target}Slot`);
+                type.id = tip + target[0].capitalize() + target.toString().slice(1);
+                type.style.padding = 0;
+                type.style.margin = "1px";
+                type.style.objectFit = "cover";
+                const image = new Image(undefined, undefined);
+                image.src = `assets/textures/items/skill_gems/${target}/${tip}.svg`;
+                type.appendChild(image);
+                typeSelection.appendChild(type);
+                type.onclick = function ()
+                {
+                    makeOneFromClassActive(target + "Slot", tip + target[0].capitalize() + target.toString().slice(1));
+                    makeOneFromClassDisabled(target + "Slot" ,tip + target[0].capitalize() + target.toString().slice(1));
+                    changedSupp.id = auraOrSupport[tip].id;
+                }
+            }
+        });
 }
 
 // Stat selection for Augments and Supports
